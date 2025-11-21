@@ -10,16 +10,6 @@
     "createdAt": "2025-11-21T13:33:50.111Z"
   },
   {
-    "id": 2,
-    "name": "Abyssalization",
-    "type": "neutral",
-    "classes": [
-      "all"
-    ],
-    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/commonCards/2qynmr8u02x7i0ywu9kt6s1763732145591.webp",
-    "createdAt": "2025-11-21T13:35:45.591Z"
-  },
-  {
     "id": 3,
     "name": "Acid Gas",
     "type": "neutral",
@@ -35,7 +25,8 @@
     "name": "Aggressive Mutant",
     "type": "neutral",
     "classes": [
-      "all"
+      "Striker",
+      "Vanguard"
     ],
     "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/commonCards/mo2q8jxem1fb4iu8jtp881763751677846.webp",
     "createdAt": "2025-11-21T19:01:17.846Z"
@@ -315,7 +306,8 @@
     "name": "Rage",
     "type": "neutral",
     "classes": [
-      "Striker"
+      "Striker",
+      "Vanguard"
     ],
     "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/commonCards/tw8ajc35b8du542sr6mfco1763754286882.webp",
     "createdAt": "2025-11-21T19:44:46.882Z"
@@ -336,8 +328,8 @@
     "name": "Shock",
     "type": "neutral",
     "classes": [
-      "Striker",
-      "Vanguard"
+      "Ranger",
+      "Hunter"
     ],
     "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/commonCards/ewx9noinphb1w0phx8eq1763754346025.webp",
     "createdAt": "2025-11-21T19:45:46.025Z"
@@ -684,5 +676,334 @@
     ],
     "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/commonCards/gozbb1a9g5ozkvrqqmhdl1763756536601.webp",
     "createdAt": "2025-11-21T20:22:16.601Z"
+  },
+  {
+    "id": 65,
+    "name": "Forbidden: Guidance of Futility",
+    "type": "forbidden",
+    "classes": [
+      "all"
+    ],
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/commonCards/mws41d7ne7biu5yv4il5dn1763757228022.webp",
+    "createdAt": "2025-11-21T20:33:48.022Z"
+  },
+  {
+    "id": 66,
+    "name": "Forbidden: Portrait of Fury",
+    "type": "forbidden",
+    "classes": [
+      "all"
+    ],
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/commonCards/atni91g9n9tja39tlx5ao1763757236521.webp",
+    "createdAt": "2025-11-21T20:33:56.521Z"
+  },
+  {
+    "id": 67,
+    "name": "Forced Learning Apparatus",
+    "type": "neutral",
+    "classes": [
+      "Psionic",
+      "Controller"
+    ],
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/commonCards/m263q9wa6fmjsy63ox90nc1763757253064.webp",
+    "createdAt": "2025-11-21T20:34:13.064Z"
+  },
+  {
+    "id": 68,
+    "name": "Gloomy Godmother",
+    "type": "monster",
+    "classes": [
+      "all"
+    ],
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/commonCards/tqzem29qfvsfsy4on0xvmc1763757590144.webp",
+    "createdAt": "2025-11-21T20:39:50.144Z"
+  },
+  {
+    "id": 69,
+    "name": "HA-00",
+    "type": "neutral",
+    "classes": [
+      "all"
+    ],
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/commonCards/wr4at71xbg938xpfvvz57w1763757668316.webp",
+    "createdAt": "2025-11-21T20:41:08.316Z"
+  },
+  {
+    "id": 70,
+    "name": "Hunger of Loss",
+    "type": "monster",
+    "classes": [
+      "all"
+    ],
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/commonCards/4mb49tfv10lqodqq452lc1763757685706.webp",
+    "createdAt": "2025-11-21T20:41:25.706Z"
+  },
+  {
+    "id": 71,
+    "name": "Hunger of the Void",
+    "type": "monster",
+    "classes": [
+      "all"
+    ],
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/commonCards/z5c89f0e3rny63bsxr1bbm1763757703688.webp",
+    "createdAt": "2025-11-21T20:41:43.688Z"
+  },
+  {
+    "id": 72,
+    "name": "Hyper Regeneration",
+    "type": "neutral",
+    "classes": [
+      "all"
+    ],
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/commonCards/jty7pfcdspgdjuz1ktvgb1763758101290.webp",
+    "createdAt": "2025-11-21T20:48:21.290Z"
+  },
+  {
+    "id": 73,
+    "name": "Infection",
+    "type": "neutral",
+    "classes": [
+      "all"
+    ],
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/commonCards/u4qntzmgmyodancg97jhcp1763758151284.webp",
+    "createdAt": "2025-11-21T20:49:11.284Z"
+  },
+  {
+    "id": 74,
+    "name": "Muscle-Enhanced Evolver",
+    "type": "neutral",
+    "classes": [
+      "Ranger",
+      "Hunter"
+    ],
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/commonCards/mwjk3a7agh8xnpm7hp3lgd1763758251748.webp",
+    "createdAt": "2025-11-21T20:50:51.748Z"
+  },
+  {
+    "id": 75,
+    "name": "Negotiate",
+    "type": "neutral",
+    "classes": [
+      "Ranger",
+      "Hunter"
+    ],
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/commonCards/8o7gne9t5waca7qi38i0lp1763758329150.webp",
+    "createdAt": "2025-11-21T20:52:09.150Z"
+  },
+  {
+    "id": 76,
+    "name": "Prepare for Battle",
+    "type": "neutral",
+    "classes": [
+      "all"
+    ],
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/commonCards/ogay4cuqx3nqcrwdcjs971763758377012.webp",
+    "createdAt": "2025-11-21T20:52:57.012Z"
+  },
+  {
+    "id": 77,
+    "name": "Propagative Virus",
+    "type": "neutral",
+    "classes": [
+      "Ranger",
+      "Hunter"
+    ],
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/commonCards/18odbe4dub4nsaj2o86p6s1763758608895.webp",
+    "createdAt": "2025-11-21T20:56:48.895Z"
+  },
+  {
+    "id": 78,
+    "name": "Relentless Endurance",
+    "type": "neutral",
+    "classes": [
+      "Striker",
+      "Vanguard"
+    ],
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/commonCards/z5uadyzojt8ayuow8td9r1763759223391.webp",
+    "createdAt": "2025-11-21T21:07:03.391Z"
+  },
+  {
+    "id": 79,
+    "name": "Quick Shelling",
+    "type": "neutral",
+    "classes": [
+      "Ranger",
+      "Hunter"
+    ],
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/commonCards/0rg9haodao9kucdxkalikl1763759238863.webp",
+    "createdAt": "2025-11-21T21:07:18.863Z"
+  },
+  {
+    "id": 80,
+    "name": "Rotten Ripper",
+    "type": "monster",
+    "classes": [
+      "all"
+    ],
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/commonCards/8ft70vtnacjjlujdwe7kbq1763759261604.webp",
+    "createdAt": "2025-11-21T21:07:41.604Z"
+  },
+  {
+    "id": 81,
+    "name": "Sadism",
+    "type": "neutral",
+    "classes": [
+      "all"
+    ],
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/commonCards/5a26bxmoll7k9p3s829gi1763759277483.webp",
+    "createdAt": "2025-11-21T21:07:57.483Z"
+  },
+  {
+    "id": 82,
+    "name": "Self-Generating Experiment",
+    "type": "neutral",
+    "classes": [
+      "Psionic",
+      "Controller"
+    ],
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/commonCards/t4k42yywahsh0ebq8guc1763759292951.webp",
+    "createdAt": "2025-11-21T21:08:12.951Z"
+  },
+  {
+    "id": 83,
+    "name": "Shell-Forming Cell",
+    "type": "neutral",
+    "classes": [
+      "Striker",
+      "Vanguard"
+    ],
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/commonCards/wicyxbmtgdmdc3po55daqv1763759304490.webp",
+    "createdAt": "2025-11-21T21:08:24.490Z"
+  },
+  {
+    "id": 84,
+    "name": "Seven Arms",
+    "type": "neutral",
+    "classes": [
+      "all"
+    ],
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/commonCards/4rouhe9ci0lx8t84n3zyrn1763759319425.webp",
+    "createdAt": "2025-11-21T21:08:39.425Z"
+  },
+  {
+    "id": 85,
+    "name": "Somnolent Fruit",
+    "type": "neutral",
+    "classes": [
+      "all"
+    ],
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/commonCards/u83q4smw19juis1ozwaao1763759397350.webp",
+    "createdAt": "2025-11-21T21:09:57.350Z"
+  },
+  {
+    "id": 86,
+    "name": "Shy Gardener",
+    "type": "monster",
+    "classes": [
+      "all"
+    ],
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/commonCards/8759v69hsex5gbjis5mqlt1763759413051.webp",
+    "createdAt": "2025-11-21T21:10:13.051Z"
+  },
+  {
+    "id": 87,
+    "name": "Sorrowful Godfather",
+    "type": "monster",
+    "classes": [
+      "all"
+    ],
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/commonCards/ya6lmlldczbpkapsvcuqc1763759441089.webp",
+    "createdAt": "2025-11-21T21:10:41.089Z"
+  },
+  {
+    "id": 88,
+    "name": "Spirit Kefox",
+    "type": "monster",
+    "classes": [
+      "all"
+    ],
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/commonCards/lyueg3nxn0ls1s5msz1n6q1763759465409.webp",
+    "createdAt": "2025-11-21T21:11:05.409Z"
+  },
+  {
+    "id": 89,
+    "name": "Winged Humanoid Beast",
+    "type": "monster",
+    "classes": [
+      "all"
+    ],
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/commonCards/odk65alt03dwkj3roo54s1763759506113.webp",
+    "createdAt": "2025-11-21T21:11:46.113Z"
+  },
+  {
+    "id": 90,
+    "name": "Wolves Bane",
+    "type": "monster",
+    "classes": [
+      "all"
+    ],
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/commonCards/8tsbwnc151z3i98ev2dt1763759520556.webp",
+    "createdAt": "2025-11-21T21:12:00.556Z"
+  },
+  {
+    "id": 91,
+    "name": "Seraphim of Pain",
+    "type": "monster",
+    "classes": [
+      "all"
+    ],
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/commonCards/h4van6yobo7pgjv6w4xm51763759661426.webp",
+    "createdAt": "2025-11-21T21:14:21.426Z"
+  },
+  {
+    "id": 92,
+    "name": "Shell Bug",
+    "type": "monster",
+    "classes": [
+      "all"
+    ],
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/commonCards/t98qz782jnjtroan1uwr9g1763759685814.webp",
+    "createdAt": "2025-11-21T21:14:45.814Z"
+  },
+  {
+    "id": 93,
+    "name": "Trapper",
+    "type": "monster",
+    "classes": [
+      "all"
+    ],
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/commonCards/hm5svc9nv0gn7a2ykprfm1763759718515.webp",
+    "createdAt": "2025-11-21T21:15:18.515Z"
+  },
+  {
+    "id": 94,
+    "name": "Financial Therapy",
+    "type": "neutral",
+    "classes": [
+      "Psionic",
+      "Controller"
+    ],
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/commonCards/zhenuod39zl8mqy3xwnvcj1763759813727.webp",
+    "createdAt": "2025-11-21T21:16:53.727Z"
+  },
+  {
+    "id": 95,
+    "name": "Soldier Prime",
+    "type": "monster",
+    "classes": [
+      "all"
+    ],
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/commonCards/7jwqukcdgttsil5cdexkoc1763759867851.webp",
+    "createdAt": "2025-11-21T21:17:47.851Z"
+  },
+  {
+    "id": 96,
+    "name": "Arbitum",
+    "type": "monster",
+    "classes": [
+      "all"
+    ],
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/commonCards/9kkr820a8hlmiquiyrxrtr1763760035395.webp",
+    "createdAt": "2025-11-21T21:20:35.395Z"
   }
 ]
