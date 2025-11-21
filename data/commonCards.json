@@ -1,0 +1,33 @@
+[
+  {
+    "id": 1,
+    "name": "Abyssal Bug",
+    "type": "monster",
+    "classes": [
+      "all"
+    ],
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/commonCards/tj87n5vcwd4o4i381b3l51763732030111.webp",
+    "createdAt": "2025-11-21T13:33:50.111Z"
+  },
+  {
+    "id": 2,
+    "name": "Abyssalization",
+    "type": "neutral",
+    "classes": [
+      "all"
+    ],
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/commonCards/2qynmr8u02x7i0ywu9kt6s1763732145591.webp",
+    "createdAt": "2025-11-21T13:35:45.591Z"
+  },
+  {
+    "id": 3,
+    "name": "Acid Gas",
+    "type": "neutral",
+    "classes": [
+      "Ranger",
+      "Hunter"
+    ],
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/commonCards/kzjvcolahlw2pz552uyac1763732242068.webp",
+    "createdAt": "2025-11-21T13:37:22.068Z"
+  }
+]
