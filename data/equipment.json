@@ -1,0 +1,2463 @@
+[
+  {
+    "id": 1,
+    "name": "Big Game Hunter",
+    "type": "weapon",
+    "rarity": "rare",
+    "local": [
+      "Shop"
+    ],
+    "skill": "Increase Tenacity Damage of the first Attack Card used per battle by 100%",
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/equipment/o3mi3qwjxdgftbjdk78afp1763813285210.webp",
+    "createdAt": "2025-11-22T12:08:05.210Z",
+    "updatedAt": "2025-12-05T11:43:29.902Z"
+  },
+  {
+    "id": 2,
+    "name": "Bone Cutter",
+    "type": "weapon",
+    "rarity": "rare",
+    "local": "Shop",
+    "skill": "When hitting a target under Weakened status, +30% Damage",
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/equipment/eh8ag1ascja1k11x7rr1r91763813307851.webp",
+    "createdAt": "2025-11-22T12:08:27.851Z"
+  },
+  {
+    "id": 3,
+    "name": "Bug Killer",
+    "type": "weapon",
+    "rarity": "rare",
+    "local": [
+      "Twin Star's Shadow"
+    ],
+    "skill": "When an Attack Card is used, 1 Agony on the target (1 time per turn)If it is an Invader battle, add 2 Agony",
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/equipment/3ttzd7ov9xa2mbxot27zmm1763813331559.webp",
+    "createdAt": "2025-11-22T12:08:51.559Z",
+    "updatedAt": "2025-12-05T11:49:49.878Z"
+  },
+  {
+    "id": 4,
+    "name": "Dull Bone Blade",
+    "type": "weapon",
+    "rarity": "rare",
+    "local": "The blue pot",
+    "skill": "10% Attack, -5% Critical Chance",
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/equipment/jkqwng7wqab4i9pxtu87qk1763813361985.webp",
+    "createdAt": "2025-11-22T12:09:21.985Z"
+  },
+  {
+    "id": 5,
+    "name": "Command: #108",
+    "type": "weapon",
+    "rarity": "rare",
+    "local": [
+      "Shop"
+    ],
+    "skill": "Increase Damage of Attack Cards by 40% (1 time per battle)",
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/equipment/q3cwi1wz5uerwnytn5vyxh1763813385361.webp",
+    "createdAt": "2025-11-22T12:09:45.361Z",
+    "updatedAt": "2025-12-05T11:48:01.872Z"
+  },
+  {
+    "id": 6,
+    "name": "Flashbang",
+    "type": "weapon",
+    "rarity": "rare",
+    "local": [
+      "Shop"
+    ],
+    "skill": "At the start of battle, apply 3 Weaken to a random enemy",
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/equipment/bx32n1iigztttjotla0qh1763813406599.webp",
+    "createdAt": "2025-11-22T12:10:06.599Z",
+    "updatedAt": "2025-12-05T11:43:57.741Z"
+  },
+  {
+    "id": 7,
+    "name": "Gastronomicon",
+    "type": "weapon",
+    "rarity": "rare",
+    "local": "Shop",
+    "skill": "When using an Attack Card with cost 2 or more, 3 Agony",
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/equipment/25ec1paoes36k0ez5ylsbw1763813431056.webp",
+    "createdAt": "2025-11-22T12:10:31.055Z"
+  },
+  {
+    "id": 8,
+    "name": "M85 Military Grenade",
+    "type": "weapon",
+    "rarity": "rare",
+    "local": [
+      "Shop"
+    ],
+    "skill": "When an Upgrade Card is used, 150% Fixed Damage to all enemies",
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/equipment/56xqge3hp7ywllq9wvgvvm1763813452426.webp",
+    "createdAt": "2025-11-22T12:10:52.426Z",
+    "updatedAt": "2025-12-05T11:49:17.668Z"
+  },
+  {
+    "id": 9,
+    "name": "Obsidian Sword",
+    "type": "weapon",
+    "rarity": "rare",
+    "local": "Shop",
+    "skill": "Increase damage amount by 12%",
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/equipment/66nq1r9jrkwbe2ojg8ojkk1763813469369.webp",
+    "createdAt": "2025-11-22T12:11:09.369Z"
+  },
+  {
+    "id": 10,
+    "name": "Overcurrent Shock Unit",
+    "type": "weapon",
+    "rarity": "rare",
+    "local": "Laboratory 0",
+    "skill": "When you Draw by an ability, 50% Fixed Damage to a random enemy",
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/equipment/0g9nvi829hrvur11oklarc1763813486075.webp",
+    "createdAt": "2025-11-22T12:11:26.075Z"
+  },
+  {
+    "id": 11,
+    "name": "Steeler’s Dagger",
+    "type": "weapon",
+    "rarity": "rare",
+    "local": [
+      "The blue pot"
+    ],
+    "skill": "When defeating an enemy, gain 5-10 Credits (1 time per battle)",
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/equipment/2r7gz03jsajfnqdr5ldk5w1763813507078.webp",
+    "createdAt": "2025-11-22T12:11:47.078Z",
+    "updatedAt": "2025-12-13T10:53:54.940Z"
+  },
+  {
+    "id": 12,
+    "name": "The Fading Flower of Life",
+    "type": "weapon",
+    "rarity": "rare",
+    "local": "Swamp of Judgment",
+    "skill": "If at max HP, +40% Damage",
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/equipment/2igpx3x3x33fiwn2a3skc1763813528765.webp",
+    "createdAt": "2025-11-22T12:12:08.765Z"
+  },
+  {
+    "id": 13,
+    "name": "Torch of Wrath",
+    "type": "weapon",
+    "rarity": "rare",
+    "local": [
+      "Shop"
+    ],
+    "skill": "At the start of a turn, apply 2 Mark to a random enemy",
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/equipment/dwev5gkb1h0oywspsegd6r1763813549048.webp",
+    "createdAt": "2025-11-22T12:12:29.048Z",
+    "updatedAt": "2025-12-05T11:44:10.610Z"
+  },
+  {
+    "id": 14,
+    "name": "Assault Gauntlets",
+    "type": "armor",
+    "rarity": "rare",
+    "local": [
+      "Shop"
+    ],
+    "skill": "At the start of battle, gain 3 Counterattack",
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/equipment/5axg2rzla763z8ma3pd8qp1763814515972.webp",
+    "createdAt": "2025-11-22T12:28:35.972Z",
+    "updatedAt": "2025-12-05T11:50:55.671Z"
+  },
+  {
+    "id": 15,
+    "name": "Brainwave-Blocking Helmet",
+    "type": "armor",
+    "rarity": "rare",
+    "local": "Laboratory 0",
+    "skill": "When Drawing through an ability, 40% Fixed Shield (5 times per turn)",
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/equipment/xcxk7b3el4h1z8v549soc71763814564647.webp",
+    "createdAt": "2025-11-22T12:29:24.647Z"
+  },
+  {
+    "id": 16,
+    "name": "Contaminated Helmet",
+    "type": "armor",
+    "rarity": "rare",
+    "local": "City of mist",
+    "skill": "Max HP +6%, Defense +12%",
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/equipment/bhxm75bxwwelh1nxthptw1763814599389.webp",
+    "createdAt": "2025-11-22T12:29:59.389Z",
+    "updatedAt": "2025-11-22T12:31:10.563Z"
+  },
+  {
+    "id": 17,
+    "name": "Gladiator's Helmet",
+    "type": "armor",
+    "rarity": "rare",
+    "local": [
+      "Shop"
+    ],
+    "skill": "At the start of battle, gain 2 Damage Reduction",
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/equipment/9sc1izkfiq7grhfgntswr1763814626764.webp",
+    "createdAt": "2025-11-22T12:30:26.764Z",
+    "updatedAt": "2025-12-13T10:55:01.509Z"
+  },
+  {
+    "id": 18,
+    "name": "Crustacean Fluider",
+    "type": "armor",
+    "rarity": "rare",
+    "local": [
+      "Twin Star's Shadow"
+    ],
+    "skill": "At the start of the next turn after taking Damage, 60% Fixed Shield",
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/equipment/ps9okxy2jcc82vlf167av1763814662745.webp",
+    "createdAt": "2025-11-22T12:31:02.745Z",
+    "updatedAt": "2025-12-05T11:51:50.805Z"
+  },
+  {
+    "id": 19,
+    "name": "Incomplete Carapace",
+    "type": "armor",
+    "rarity": "rare",
+    "local": "Laboratory 0",
+    "skill": "At the end of the turn, if there are 3 or more cards in hand, 140% Fixed Shield",
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/equipment/xpi2tkpxcaa0bdhdsjmjk1763814702825.webp",
+    "createdAt": "2025-11-22T12:31:42.825Z"
+  },
+  {
+    "id": 20,
+    "name": "Lush Seaweed Armor",
+    "type": "armor",
+    "rarity": "rare",
+    "local": [
+      "Shop"
+    ],
+    "skill": "When gaining Shield, gain 30% Fixed Shield",
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/equipment/8oly9md9kuwh1dvltb37c1763814718845.webp",
+    "createdAt": "2025-11-22T12:31:58.845Z",
+    "updatedAt": "2025-12-05T11:51:17.493Z"
+  },
+  {
+    "id": 21,
+    "name": "Mask of Evil Spirits",
+    "type": "armor",
+    "rarity": "rare",
+    "local": [
+      "Swamp of Judgment"
+    ],
+    "skill": "At the start of the next turn after taking Damage, 60% Fixed Shield",
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/equipment/fdsxcc8b53poyinpviz0xe1763814743627.webp",
+    "createdAt": "2025-11-22T12:32:23.627Z",
+    "updatedAt": "2025-12-05T11:51:07.852Z"
+  },
+  {
+    "id": 22,
+    "name": "Resolute Gauntlets",
+    "type": "armor",
+    "rarity": "rare",
+    "local": "The blue pot",
+    "skill": "At the start of Chaos Order battle, +20% Damage, 1 Damage Reduction",
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/equipment/it7fd0zr7bjbfrfri8r55d1763814763165.webp",
+    "createdAt": "2025-11-22T12:32:43.165Z"
+  },
+  {
+    "id": 23,
+    "name": "Standard Gas Mask",
+    "type": "armor",
+    "rarity": "rare",
+    "local": "Shop",
+    "skill": "At the start of battle, gain 1 Immunity",
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/equipment/3ljubu54kq4f62j17ttbc1763814780064.webp",
+    "createdAt": "2025-11-22T12:33:00.064Z"
+  },
+  {
+    "id": 24,
+    "name": "Scout's Combat Boots",
+    "type": "armor",
+    "rarity": "rare",
+    "local": [
+      "Shop"
+    ],
+    "skill": "When defeating the enemy, 60% Fixed Shield",
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/equipment/2t7e0e670l4dybrvxg1wbd1763814800929.webp",
+    "createdAt": "2025-11-22T12:33:20.929Z",
+    "updatedAt": "2025-12-13T10:55:11.455Z"
+  },
+  {
+    "id": 25,
+    "name": "Titan Combat Suit",
+    "type": "armor",
+    "rarity": "rare",
+    "local": "Shop",
+    "skill": "When taking Damage, Recover 2% of Max HP (1 time per turn)",
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/equipment/j4h35mb663yijpoiht211763814817801.webp",
+    "createdAt": "2025-11-22T12:33:37.801Z"
+  },
+  {
+    "id": 26,
+    "name": "Survivor's Hood",
+    "type": "armor",
+    "rarity": "rare",
+    "local": [
+      "Shop"
+    ],
+    "skill": "At the start of battle, gain 140% Fixed Shield",
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/equipment/u8qkroiabsr73ur03aw5wd1763814839258.webp",
+    "createdAt": "2025-11-22T12:33:59.258Z",
+    "updatedAt": "2025-12-13T10:55:22.994Z"
+  },
+  {
+    "id": 27,
+    "name": "Absolute Zero Tetrahedron",
+    "type": "accessory",
+    "rarity": "rare",
+    "local": "Shop",
+    "skill": "At the start of battle, +20% Shield",
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/equipment/c99fjm14k7ways8o56ean1763815133880.webp",
+    "createdAt": "2025-11-22T12:38:53.880Z"
+  },
+  {
+    "id": 28,
+    "name": "Administrator ID Badge",
+    "type": "accessory",
+    "rarity": "rare",
+    "local": "Laboratory 0",
+    "skill": "At the start of the battle, 1 Evade",
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/equipment/q9zartxiz9brkfr18f1p71763815174654.webp",
+    "createdAt": "2025-11-22T12:39:34.654Z"
+  },
+  {
+    "id": 29,
+    "name": "Amorphous Cube",
+    "type": "accessory",
+    "rarity": "rare",
+    "local": "Shop",
+    "skill": "+25 Damage Amount",
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/equipment/9hjnzb08ydo8o1pyq8jjml1763815189253.webp",
+    "createdAt": "2025-11-22T12:39:49.253Z"
+  },
+  {
+    "id": 30,
+    "name": "Clover of the Forest",
+    "type": "accessory",
+    "rarity": "rare",
+    "local": "Swamp of Judgment",
+    "skill": "When Recover via card, +10% ally Attack for 1 turn (Max 1 stack)",
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/equipment/vgde59uxxe3r220eby4sl1763815207356.webp",
+    "createdAt": "2025-11-22T12:40:07.356Z"
+  },
+  {
+    "id": 31,
+    "name": "Bloodstone of the Void",
+    "type": "accessory",
+    "rarity": "rare",
+    "local": [
+      "The blue pot"
+    ],
+    "skill": "When an Attack Card is used, Recover 6% of Damage Dealt (1 time per turn)",
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/equipment/vdvddvrn1ese4etaaogjod1763815223320.webp",
+    "createdAt": "2025-11-22T12:40:23.320Z",
+    "updatedAt": "2025-12-05T11:54:38.563Z"
+  },
+  {
+    "id": 32,
+    "name": "First Aid Kit",
+    "type": "RELIC",
+    "rarity": "rare",
+    "local": "Twin Star's Shadow",
+    "skill": "At the end of battle, Recover 4% of Max HP",
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/equipment/r8z2tar4r5hqqh897w2j41763815264103.webp",
+    "createdAt": "2025-11-22T12:41:04.103Z"
+  },
+  {
+    "id": 33,
+    "name": "Hyperimmunity Hormone",
+    "type": "accessory",
+    "rarity": "rare",
+    "local": "Laboratory 0",
+    "skill": "When you Draw by an ability, +25% Shield gain for 1 turn (Max 2 times per turn)",
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/equipment/xktsn2vz7sd8cuv6xcef1763815281886.webp",
+    "createdAt": "2025-11-22T12:41:21.886Z"
+  },
+  {
+    "id": 34,
+    "name": "M.S.S. Data Pad",
+    "type": "accessory",
+    "rarity": "rare",
+    "local": [
+      "City of mist"
+    ],
+    "skill": "At the start of Nihilum battle, 2 Vulnerable to all enemies",
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/equipment/l4c4fpdfy4ry4khueuz31763815309578.webp",
+    "createdAt": "2025-11-22T12:41:49.578Z",
+    "updatedAt": "2025-12-13T10:55:40.954Z"
+  },
+  {
+    "id": 35,
+    "name": "Magic-Infused Sapphire",
+    "type": "accessory",
+    "rarity": "rare",
+    "local": "Shop",
+    "skill": "At the start of battle, if the Initiation card is in hand, 1 Tenacity Damage to all enemies",
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/equipment/dqi8h0jandbu3klrysj3y1763815326484.webp",
+    "createdAt": "2025-11-22T12:42:06.484Z"
+  },
+  {
+    "id": 36,
+    "name": "Multifaceted Parallel Universe Nexus",
+    "type": "accessory",
+    "rarity": "rare",
+    "local": "Shop",
+    "skill": "At the start of the turn, activate 1 random Lead card in hand",
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/equipment/s7r597hcmjb792w2aq48a41763815341997.webp",
+    "createdAt": "2025-11-22T12:42:21.997Z"
+  },
+  {
+    "id": 37,
+    "name": "Nerve Hacking Module",
+    "type": "accessory",
+    "rarity": "rare",
+    "local": [
+      "Laboratory 0"
+    ],
+    "skill": "When an ally uses a Forbidden Card, +20% Damage Amount, +20% Shield Gain Amount (2 times per battle)",
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/equipment/raakow0xj4l5fz3sajduo1763815363820.webp",
+    "createdAt": "2025-11-22T12:42:43.820Z",
+    "updatedAt": "2025-12-03T14:36:07.197Z"
+  },
+  {
+    "id": 38,
+    "name": "Poacher's Pathfinder",
+    "type": "accessory",
+    "rarity": "rare",
+    "local": [
+      "Swamp of Judgment"
+    ],
+    "skill": "In Sekred battle, +25% Damage, 2 Vulnerable to all enemies",
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/equipment/dx2cnwn1087lrhhj2ats6g1763815380060.webp",
+    "createdAt": "2025-11-22T12:43:00.060Z",
+    "updatedAt": "2025-12-13T10:56:12.088Z"
+  },
+  {
+    "id": 39,
+    "name": "Proof of Initiation",
+    "type": "accessory",
+    "rarity": "rare",
+    "local": "The blue pot",
+    "skill": "In Chaos Order battles, +10% Defense",
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/equipment/5qocv99mhmuem1pivc3qf1763815396863.webp",
+    "createdAt": "2025-11-22T12:43:16.863Z"
+  },
+  {
+    "id": 40,
+    "name": "Rune Chord",
+    "type": "accessory",
+    "rarity": "rare",
+    "local": "Foretold Ruin",
+    "skill": "At the end of the turn, if there is a Retained card, 60% Fixed Shield",
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/equipment/em9m6e888f7rwa12slaw5s1763815412853.webp",
+    "createdAt": "2025-11-22T12:43:32.853Z"
+  },
+  {
+    "id": 41,
+    "name": "Soul Orb",
+    "type": "accessory",
+    "rarity": "rare",
+    "local": "City of mist",
+    "skill": "When a card is Exhausted, 1 Tenacity Damage to all enemies (1 time per battle)",
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/equipment/puderp2w2vsgdn8i7w3o6b1763815431222.webp",
+    "createdAt": "2025-11-22T12:43:51.222Z"
+  },
+  {
+    "id": 42,
+    "name": "The Famished One's Belly",
+    "type": "accessory",
+    "rarity": "rare",
+    "local": [
+      "City of mist"
+    ],
+    "skill": "When a card is Exhausted, +25% Damage Amount, Recover 5% of Max HP (1 time per battle)",
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/equipment/8a026xb3ppumpke1pfi8z1763815451499.webp",
+    "createdAt": "2025-11-22T12:44:11.499Z",
+    "updatedAt": "2025-12-05T11:54:02.618Z"
+  },
+  {
+    "id": 43,
+    "name": "Time Regulator",
+    "type": "accessory",
+    "rarity": "rare",
+    "local": "Shop",
+    "skill": "Activate Epiphany for the equipped combatant",
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/equipment/j1iogqigstjjn6hfvg96oa1763815465357.webp",
+    "createdAt": "2025-11-22T12:44:25.357Z"
+  },
+  {
+    "id": 44,
+    "name": "Abyssal Bug Tooth",
+    "type": "weapon",
+    "rarity": "Legendary",
+    "local": "Twin Star's Shadow",
+    "skill": "On Critical Hit, 50% chance to 1 Agony",
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/equipment/wsyb7mu64a0rdpwkgv61wb1763863882994.webp",
+    "createdAt": "2025-11-23T02:11:22.994Z"
+  },
+  {
+    "id": 45,
+    "name": "Blood Giant Claw",
+    "type": "weapon",
+    "rarity": "Legendary",
+    "local": "City of mist",
+    "skill": "On Ravage, 150% Fixed Damage to the target",
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/equipment/gl4mcy5rk7kuheuqkvg71763863897612.webp",
+    "createdAt": "2025-11-23T02:11:37.612Z"
+  },
+  {
+    "id": 46,
+    "name": "Branch of the Evil Tree",
+    "type": "weapon",
+    "rarity": "Legendary",
+    "local": "Swamp of Judgment",
+    "skill": "On Heal or Recover, inflict Fixed Damage to a random enemy equal to 50% of Recover Amount",
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/equipment/stmi3uq6o7qzhulljbyba1763863921089.webp",
+    "createdAt": "2025-11-23T02:12:01.089Z"
+  },
+  {
+    "id": 47,
+    "name": "Branch of the Sacred Tree",
+    "type": "weapon",
+    "rarity": "Legendary",
+    "local": "Swamp of Judgment",
+    "skill": "On Heal or Recover, inflict Fixed Damage to all enemies equal to 35% of Heal Amount",
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/equipment/tsirpnffip59o6gg2wpsl1763863941710.webp",
+    "createdAt": "2025-11-23T02:12:21.710Z"
+  },
+  {
+    "id": 48,
+    "name": "Cavalry of Lightning",
+    "type": "weapon",
+    "rarity": "Legendary",
+    "local": [
+      "Swamp of Judgment",
+      "Foretold Ruin"
+    ],
+    "skill": "When dealing Damage to a target with Shield, +100% Damage to the next Attack Card",
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/equipment/ui5dmrhs2bel51xc5on9iq1763863968496.webp",
+    "createdAt": "2025-11-23T02:12:48.496Z",
+    "updatedAt": "2025-11-23T07:07:33.737Z"
+  },
+  {
+    "id": 49,
+    "name": "Crimson Sword",
+    "type": "weapon",
+    "rarity": "Legendary",
+    "local": "Shop",
+    "skill": "When dealing Damage with a targeting Attack Card, 3 Agony (1 per turn)",
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/equipment/ss7dya1kk0mh4fjhea1fvo1763863990111.webp",
+    "createdAt": "2025-11-23T02:13:10.111Z"
+  },
+  {
+    "id": 50,
+    "name": "Dagger That Tricked the Shadow",
+    "type": "weapon",
+    "rarity": "Legendary",
+    "local": "Swamp of Judgment",
+    "skill": "+12% Critical Damage",
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/equipment/ii06k7kbn8ttxr8oyvcj1763864006329.webp",
+    "createdAt": "2025-11-23T02:13:26.329Z"
+  },
+  {
+    "id": 51,
+    "name": "Dream of the Devoured",
+    "type": "weapon",
+    "rarity": "Legendary",
+    "local": "City of mist",
+    "skill": "When a card is Exhausted, increases Damage Amount of the next card used by 25% (can stack up to 1 time)",
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/equipment/x2xp67gnqzktted0zaq3m1763864023521.webp",
+    "createdAt": "2025-11-23T02:13:43.521Z"
+  },
+  {
+    "id": 52,
+    "name": "Esophagus of Madness",
+    "type": "weapon",
+    "rarity": "Legendary",
+    "local": [
+      "The blue pot",
+      "Twin Star's Shadow",
+      "Foretold Ruin"
+    ],
+    "skill": "Increase Damage Amount by 20% against targets in a Agony state",
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/equipment/1yvrp6byeounlf5gyc74d1763864068483.webp",
+    "createdAt": "2025-11-23T02:14:28.483Z",
+    "updatedAt": "2025-11-23T07:08:27.629Z"
+  },
+  {
+    "id": 53,
+    "name": "Executioner's Edge",
+    "type": "weapon",
+    "rarity": "Legendary",
+    "local": [
+      "The blue pot"
+    ],
+    "skill": "Increase Damage Amount by 35% against enemies with 50% of Max HP or less",
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/equipment/azj9zrkhwx6dbxfugwtbiq1763890803196.webp",
+    "createdAt": "2025-11-23T09:40:03.196Z",
+    "updatedAt": "2025-12-13T10:56:24.234Z"
+  },
+  {
+    "id": 54,
+    "name": "Flame of Purification",
+    "type": "weapon",
+    "rarity": "Legendary",
+    "local": [
+      "Foretold Ruin"
+    ],
+    "skill": "When a card is Exhausted, 1 Punishment on a random enemy (2 times per turn)",
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/equipment/p2srdglcgkau8rrj8iy30i1763890816745.webp",
+    "createdAt": "2025-11-23T09:40:16.745Z"
+  },
+  {
+    "id": 55,
+    "name": "Formica's Broken Spear",
+    "type": "weapon",
+    "rarity": "Legendary",
+    "local": [
+      "Twin Star's Shadow"
+    ],
+    "skill": "Increase Damage Amount by 6% for each enemy",
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/equipment/3xafmjpzv2okh2p9yc2zq1763890854620.webp",
+    "createdAt": "2025-11-23T09:40:54.620Z",
+    "updatedAt": "2025-12-13T10:56:35.115Z"
+  },
+  {
+    "id": 56,
+    "name": "Mountain of Corpses",
+    "type": "weapon",
+    "rarity": "Legendary",
+    "local": [
+      "Shop"
+    ],
+    "skill": "Increase Damage Amount of Attack Cards by 25% (1 time per turn)",
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/equipment/oroyuxqss1kbofrgef2ifw1763890878800.webp",
+    "createdAt": "2025-11-23T09:41:18.800Z"
+  },
+  {
+    "id": 57,
+    "name": "Mutagenic Wave Amplifier",
+    "type": "weapon",
+    "rarity": "Legendary",
+    "local": [
+      "Laboratory 0",
+      "Shop"
+    ],
+    "skill": "When Drawing a Status Ailment or Curse Card, +12% Damage Amount for 1 turn",
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/equipment/9fo9u4bwn5ln6nis00dgqb1763890894115.webp",
+    "createdAt": "2025-11-23T09:41:34.115Z",
+    "updatedAt": "2025-11-23T09:47:07.637Z"
+  },
+  {
+    "id": 58,
+    "name": "Mutant Predator Spike",
+    "type": "weapon",
+    "rarity": "Legendary",
+    "local": [
+      "Laboratory 0"
+    ],
+    "skill": "When there are 4 or more cards in hand, increase Damage Amount of cards by 30%",
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/equipment/mdctb0n1wjg8krcq8b5q721763890908457.webp",
+    "createdAt": "2025-11-23T09:41:48.457Z"
+  },
+  {
+    "id": 59,
+    "name": "Mutated Claws",
+    "type": "weapon",
+    "rarity": "Legendary",
+    "local": [
+      "The blue pot",
+      "City of mist"
+    ],
+    "skill": "When Drawing a Status Ailment or Curse Card, +15% Damage Amount for 1 turn",
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/equipment/hpxdg6hdx7ezi1d3covpap1763890929096.webp",
+    "createdAt": "2025-11-23T09:42:09.096Z"
+  },
+  {
+    "id": 60,
+    "name": "Nature's Hostility",
+    "type": "weapon",
+    "rarity": "Legendary",
+    "local": [
+      "The blue pot",
+      "City of mist"
+    ],
+    "skill": "When an enemy is defeated, 200% Fixed Damage to all enemies",
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/equipment/tid35hedmhc9z253qyd41763890945954.webp",
+    "createdAt": "2025-11-23T09:42:25.954Z",
+    "updatedAt": "2025-12-13T10:56:43.435Z"
+  },
+  {
+    "id": 61,
+    "name": "Replica Core",
+    "type": "weapon",
+    "rarity": "Legendary",
+    "local": [
+      "Laboratory 0"
+    ],
+    "skill": "When drawing your own Attack Card by an ability, that card +50% Damage Amount for 1 turn",
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/equipment/z82lh34p97b8vk9ff0l19h1763890961396.webp",
+    "createdAt": "2025-11-23T09:42:41.396Z"
+  },
+  {
+    "id": 62,
+    "name": "RFS-17",
+    "type": "weapon",
+    "rarity": "Legendary",
+    "local": [
+      "Shop"
+    ],
+    "skill": "+10% Critical Chance of Attack Cards with cost 0",
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/equipment/pq55gk4c0phz9l1oeie7j91763890978034.webp",
+    "createdAt": "2025-11-23T09:42:58.034Z"
+  },
+  {
+    "id": 63,
+    "name": "Ritual Dagger",
+    "type": "weapon",
+    "rarity": "Legendary",
+    "local": [
+      "The blue pot"
+    ],
+    "skill": "When an enemy is defeated, +25% Attack Card Damage amount (Max 2 times)",
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/equipment/n7hs8wrr8k9pdpbje6ox1763890995999.webp",
+    "createdAt": "2025-11-23T09:43:15.999Z"
+  },
+  {
+    "id": 64,
+    "name": "Rune Lance",
+    "type": "weapon",
+    "rarity": "Legendary",
+    "local": [
+      "Foretold Ruin"
+    ],
+    "skill": "When using 5 or more Action Points, +25% Damage Amount, Shield gain, and Healing (1 time per battle)",
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/equipment/taqjks5z8ak9yl0ax9ius1763891009685.webp",
+    "createdAt": "2025-11-23T09:43:29.685Z"
+  },
+  {
+    "id": 65,
+    "name": "Second Method",
+    "type": "weapon",
+    "rarity": "Legendary",
+    "local": [
+      "Shop"
+    ],
+    "skill": "Extra Attack damage +35%",
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/equipment/6it6ijroi9br1ld0zovsuk1763891023859.webp",
+    "createdAt": "2025-11-23T09:43:43.859Z"
+  },
+  {
+    "id": 66,
+    "name": "Singing Sword",
+    "type": "weapon",
+    "rarity": "Legendary",
+    "local": [
+      "Foretold Ruin"
+    ],
+    "skill": "+15% AttackWhen dealing Damage to a target with Shield, 1 Punishment",
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/equipment/idcztc5cbql8nqw6t0xvb81763891039261.webp",
+    "createdAt": "2025-11-23T09:43:59.261Z"
+  },
+  {
+    "id": 67,
+    "name": "Sneering Dagger",
+    "type": "weapon",
+    "rarity": "Legendary",
+    "local": [
+      "Shop"
+    ],
+    "skill": "When an enemy is defeated, 2 Vulnerable to all enemies",
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/equipment/ep9ytsjexgu72m5nqkugrl1763891062076.webp",
+    "createdAt": "2025-11-23T09:44:22.076Z"
+  },
+  {
+    "id": 68,
+    "name": "Sun-Setting Bow",
+    "type": "weapon",
+    "rarity": "Legendary",
+    "local": [
+      "Swamp of Judgment"
+    ],
+    "skill": "Increase Damage Amount of Attack Cards with a Cost of 2 or higher by 30% (1 time per turn)",
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/equipment/vtdide83y2f3kazaybba0m1763891079082.webp",
+    "createdAt": "2025-11-23T09:44:39.082Z"
+  },
+  {
+    "id": 69,
+    "name": "Sword Reflected in the Lake",
+    "type": "weapon",
+    "rarity": "Legendary",
+    "local": [
+      "Swamp of Judgment"
+    ],
+    "skill": "When there are 6 or more cards in hand, increase Damage Amount by 25%",
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/equipment/x3veltobbq9nft7hluvu0c1763891094517.webp",
+    "createdAt": "2025-11-23T09:44:54.517Z"
+  },
+  {
+    "id": 70,
+    "name": "The Destruction of Erysichthon",
+    "type": "weapon",
+    "rarity": "Legendary",
+    "local": [
+      "Twin Star's Shadow"
+    ],
+    "skill": "When an Attack Card is used, 5% chance to add 1 Hit",
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/equipment/nv2awa2pw3oyawrp8id0or1763891110111.webp",
+    "createdAt": "2025-11-23T09:45:10.111Z"
+  },
+  {
+    "id": 71,
+    "name": "The Flower of Life",
+    "type": "weapon",
+    "rarity": "Legendary",
+    "local": [
+      "Swamp of Judgment"
+    ],
+    "skill": "If at max HP, +50% Damage",
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/equipment/t105mma8aaftxmck15cb91763891124963.webp",
+    "createdAt": "2025-11-23T09:45:24.963Z"
+  },
+  {
+    "id": 72,
+    "name": "Trumpet of Revelation",
+    "type": "weapon",
+    "rarity": "Legendary",
+    "local": [
+      "Foretold Ruin"
+    ],
+    "skill": "When Draw a card, +20% Damage for 1 turn (2 per turn)",
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/equipment/fvghvll2a8oe3tps4esopk1763891153936.webp",
+    "createdAt": "2025-11-23T09:45:53.936Z"
+  },
+  {
+    "id": 73,
+    "name": "Unexploded Plasma Bomber",
+    "type": "weapon",
+    "rarity": "Legendary",
+    "local": [
+      "City of mist"
+    ],
+    "skill": "When a card is Exhausted, 40% Fixed Damage on a random enemy",
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/equipment/4rp00fwpirili9exl4mgsj1763891168093.webp",
+    "createdAt": "2025-11-23T09:46:08.093Z",
+    "updatedAt": "2025-12-13T10:56:59.859Z"
+  },
+  {
+    "id": 74,
+    "name": "Violet Butterfly's Whip",
+    "type": "weapon",
+    "rarity": "Legendary",
+    "local": [
+      "Twin Star's Shadow"
+    ],
+    "skill": "Increase Damage Amount of Attack Cards with a Cost of 1 or less by 20%",
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/equipment/b7uvbmedwvhz1i37k5zro81763891182062.webp",
+    "createdAt": "2025-11-23T09:46:22.062Z"
+  },
+  {
+    "id": 75,
+    "name": "W-52 \"Dopamine Injector\"",
+    "type": "weapon",
+    "rarity": "Legendary",
+    "local": [
+      "Laboratory 0",
+      "Shop"
+    ],
+    "skill": "When Drawing by an ability, increase Damage Amount by 20% for 1 turn (2 times per turn)",
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/equipment/mvp38jb0zs1ug4lhafn9c1763891208011.webp",
+    "createdAt": "2025-11-23T09:46:48.011Z",
+    "updatedAt": "2025-12-13T10:57:19.059Z"
+  },
+  {
+    "id": 76,
+    "name": "Assault Boots",
+    "type": "armor",
+    "rarity": "Legendary",
+    "local": [
+      "Shop"
+    ],
+    "skill": "At the start of the second turn, 200% Fixed Shield",
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/equipment/ab8w8qjsvm5rmtqnzlo5b1763891479209.webp",
+    "createdAt": "2025-11-23T09:51:19.209Z"
+  },
+  {
+    "id": 77,
+    "name": "Chains of Obsession",
+    "type": "armor",
+    "rarity": "Legendary",
+    "local": [
+      "The blue pot",
+      "Twin Star's Shadow",
+      "Foretold Ruin"
+    ],
+    "skill": "When using Attack cards, 1% HP Reduction, 60% Fixed Shield",
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/equipment/eua3jumx3vi699s4nyef1763891500889.webp",
+    "createdAt": "2025-11-23T09:51:40.889Z"
+  },
+  {
+    "id": 78,
+    "name": "Cloud-Walking Shoes",
+    "type": "armor",
+    "rarity": "Legendary",
+    "local": [
+      "Shop"
+    ],
+    "skill": "When an ally inflicts Ravage, 40% Fixed Shield",
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/equipment/c0er0i1la1g7pukftzyb71763891513944.webp",
+    "createdAt": "2025-11-23T09:51:53.944Z"
+  },
+  {
+    "id": 79,
+    "name": "Cursed Doll",
+    "type": "armor",
+    "rarity": "Legendary",
+    "local": [
+      "The blue pot",
+      "Twin Star's Shadow",
+      "Foretold Ruin"
+    ],
+    "skill": "At the start of turn, Heal 60% for each Status Ailment and Curse card in hand",
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/equipment/tljepwra8gdx5gzznmllen1763891537908.webp",
+    "createdAt": "2025-11-23T09:52:17.908Z"
+  },
+  {
+    "id": 80,
+    "name": "Dance of the Night Butterflies",
+    "type": "armor",
+    "rarity": "Legendary",
+    "local": [
+      "Twin Star's Shadow"
+    ],
+    "skill": "On Ravage, 60% Fixed Shield",
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/equipment/culthc1aibn5atruqv2lj1763891552393.webp",
+    "createdAt": "2025-11-23T09:52:32.393Z"
+  },
+  {
+    "id": 81,
+    "name": "Fairy King’s Crown",
+    "type": "armor",
+    "rarity": "Legendary",
+    "local": [
+      "Swamp of Judgment"
+    ],
+    "skill": "+6% Critical Chance",
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/equipment/aweufury6mge907hb2cxf1763891576353.webp",
+    "createdAt": "2025-11-23T09:52:56.353Z",
+    "updatedAt": "2026-01-27T04:27:12.840Z"
+  },
+  {
+    "id": 82,
+    "name": "Gluttonous Tailcoat",
+    "type": "armor",
+    "rarity": "Legendary",
+    "local": [
+      "City of mist"
+    ],
+    "skill": "At the start of the next turn after taking Damage, 80% Fixed Shield",
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/equipment/vpdurhqrqbvb5d8t383sr1763891592053.webp",
+    "createdAt": "2025-11-23T09:53:12.053Z"
+  },
+  {
+    "id": 83,
+    "name": "Growing Carapace",
+    "type": "armor",
+    "rarity": "Legendary",
+    "local": [
+      "Twin Star's Shadow"
+    ],
+    "skill": "At the start of the turn, gain 40% Fixed Shield",
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/equipment/6puxqtvs7forfgd89ydp1763891617400.webp",
+    "createdAt": "2025-11-23T09:53:37.400Z"
+  },
+  {
+    "id": 84,
+    "name": "Immortal Scale",
+    "type": "armor",
+    "rarity": "Legendary",
+    "local": [
+      "Swamp of Judgment"
+    ],
+    "skill": "When gaining Counterattack by an ability, add 1 Counterattack",
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/equipment/nfs0ms2ywob628617j7d071763891639335.webp",
+    "createdAt": "2025-11-23T09:53:59.335Z"
+  },
+  {
+    "id": 85,
+    "name": "M.S.S Scope",
+    "type": "armor",
+    "rarity": "Legendary",
+    "local": [
+      "City of mist"
+    ],
+    "skill": "For 1 turn, if a harmful effect is inflicted, at the end of the turn, 80% Fixed Shield",
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/equipment/f97prfh809jc0vudh804be1763891650535.webp",
+    "createdAt": "2025-11-23T09:54:10.535Z"
+  },
+  {
+    "id": 86,
+    "name": "Psionic Combat Suit",
+    "type": "armor",
+    "rarity": "Legendary",
+    "local": [
+      "Shop"
+    ],
+    "skill": "When a card is Exhausted, 30% Fixed Shield (5 times per turn)",
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/equipment/scz8kxnar9f2r1n38po01c1763891669798.webp",
+    "createdAt": "2025-11-23T09:54:29.798Z"
+  },
+  {
+    "id": 87,
+    "name": "Regenerative Ribcage",
+    "type": "armor",
+    "rarity": "Legendary",
+    "local": [
+      "City of mist"
+    ],
+    "skill": "Max HP +12%",
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/equipment/uhjyxg9aafaxlx30311l2k1763891683181.webp",
+    "createdAt": "2025-11-23T09:54:43.181Z"
+  },
+  {
+    "id": 88,
+    "name": "Ring of the Seraphim",
+    "type": "armor",
+    "rarity": "Legendary",
+    "local": [
+      "Swamp of Judgment",
+      "Foretold Ruin"
+    ],
+    "skill": "When an Upgrade Card is used, +30% Damage Amount for 1 turn",
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/equipment/kqlinhakpli4l9c8jdurzd1763891708745.webp",
+    "createdAt": "2025-11-23T09:55:08.745Z"
+  },
+  {
+    "id": 89,
+    "name": "Rocket-Adorned Cape",
+    "type": "armor",
+    "rarity": "Legendary",
+    "local": [
+      "Laboratory 0"
+    ],
+    "skill": "At the start of the battle, 1 Damage Reduction and Draw 1",
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/equipment/wmawksnvxep666acdp8biv1763891725445.webp",
+    "createdAt": "2025-11-23T09:55:25.445Z"
+  },
+  {
+    "id": 90,
+    "name": "Shield of the Watcher",
+    "type": "armor",
+    "rarity": "Legendary",
+    "local": [
+      "The blue pot",
+      "City of mist"
+    ],
+    "skill": "When taking Damage, 1 Mark on the attacker",
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/equipment/ajbq6cyv0pu70chixc5wz1763891739459.webp",
+    "createdAt": "2025-11-23T09:55:39.459Z"
+  },
+  {
+    "id": 91,
+    "name": "The Chosen Vessel",
+    "type": "armor",
+    "rarity": "Legendary",
+    "local": [
+      "The blue pot"
+    ],
+    "skill": "At the start of the third turn, 250% Fixed Shield",
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/equipment/32eannuxthxl0yvmdk7kg1763891752376.webp",
+    "createdAt": "2025-11-23T09:55:52.376Z"
+  },
+  {
+    "id": 92,
+    "name": "Torture Toolbox",
+    "type": "armor",
+    "rarity": "Legendary",
+    "local": [
+      "The blue pot",
+      "Twin Star's Shadow",
+      "Foretold Ruin"
+    ],
+    "skill": "At the start of the turn, increase Action Count of all enemies by 3",
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/equipment/feq81qdh1x00kk10uw8l6ds1763891771941.webp",
+    "createdAt": "2025-11-23T09:56:11.941Z"
+  },
+  {
+    "id": 93,
+    "name": "Twisted Discipline",
+    "type": "armor",
+    "rarity": "Legendary",
+    "local": [
+      "Foretold Ruin"
+    ],
+    "skill": "When using 10 or more Action Points, +2 Immunity (1 time per battle)",
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/equipment/yv2koztkrd6hw522zxi391763891795545.webp",
+    "createdAt": "2025-11-23T09:56:35.545Z"
+  },
+  {
+    "id": 94,
+    "name": "Reinforced Combat Suit",
+    "type": "armor",
+    "rarity": "Legendary",
+    "local": [
+      "Shop"
+    ],
+    "skill": "At the end of the turn, if there is no Shield, gain 60% Fixed Shield",
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/equipment/61q4ugcd5qpbx085k3kuiv1763891851553.webp",
+    "createdAt": "2025-11-23T09:57:31.553Z"
+  },
+  {
+    "id": 95,
+    "name": "Wings of Freedom",
+    "type": "armor",
+    "rarity": "Legendary",
+    "local": [
+      "Laboratory 0"
+    ],
+    "skill": "When hit, increase Damage Amount 10% (can stack up to 3 times)",
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/equipment/bew31pxm4srpoti1sgo5j1763891872448.webp",
+    "createdAt": "2025-11-23T09:57:52.448Z"
+  },
+  {
+    "id": 96,
+    "name": "Wings of Light",
+    "type": "armor",
+    "rarity": "Legendary",
+    "local": [
+      "Swamp of Judgment",
+      "Foretold Ruin"
+    ],
+    "skill": "When Ego Points are 3 or lower, 0.2 Ego Points on Critical Hit",
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/equipment/5xaujc4qjqk3vage9594gi1763891889841.webp",
+    "createdAt": "2025-11-23T09:58:09.841Z"
+  },
+  {
+    "id": 97,
+    "name": "Wolves Bane’s Spine",
+    "type": "armor",
+    "rarity": "Legendary",
+    "local": [
+      "The blue pot",
+      "City of mist"
+    ],
+    "skill": "On Critical Hit, 10% Fixed Shield",
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/equipment/iwmqn4cv099wyiciyw6h51763891905638.webp",
+    "createdAt": "2025-11-23T09:58:25.638Z",
+    "updatedAt": "2025-12-13T10:57:39.895Z"
+  },
+  {
+    "id": 98,
+    "name": "Bloody Pendant",
+    "type": "accessory",
+    "rarity": "Legendary",
+    "local": [
+      "The blue pot",
+      "Twin Star's Shadow",
+      "Foretold Ruin"
+    ],
+    "skill": "When using Duplicated Cards, all enemies’ Action Count does not decrease for 1 turn (1 per battle)",
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/equipment/our6djtqhc7oqjnlu36f71763892144700.webp",
+    "createdAt": "2025-11-23T10:02:24.700Z"
+  },
+  {
+    "id": 99,
+    "name": "Bone Ring of Wildfire",
+    "type": "accessory",
+    "rarity": "Legendary",
+    "local": [
+      "Swamp of Judgment"
+    ],
+    "skill": "When an Upgrade Card is used, +30% Damage Amount for 1 turn",
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/equipment/adxknljf0fnp2aad1ogjo1763892167031.webp",
+    "createdAt": "2025-11-23T10:02:47.031Z"
+  },
+  {
+    "id": 100,
+    "name": "Call of the Ancient Spirit",
+    "type": "accessory",
+    "rarity": "Legendary",
+    "local": [
+      "Swamp of Judgment"
+    ],
+    "skill": "On Critical Hit, Heal 10%",
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/equipment/2850xlbnyhewkgcha6uger1763892250032.webp",
+    "createdAt": "2025-11-23T10:04:10.032Z",
+    "updatedAt": "2025-11-23T10:05:36.377Z"
+  },
+  {
+    "id": 101,
+    "name": "Chaos Bible",
+    "type": "accessory",
+    "rarity": "Legendary",
+    "local": [
+      "The blue pot"
+    ],
+    "skill": "At the start of the fourth turn, 400% Fixed Damage to all enemies",
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/equipment/48f56uc7mycbep72a85igi1763892268095.webp",
+    "createdAt": "2025-11-23T10:04:28.095Z",
+    "updatedAt": "2025-11-23T10:05:42.923Z"
+  },
+  {
+    "id": 102,
+    "name": "Corroded Core",
+    "type": "accessory",
+    "rarity": "Legendary",
+    "local": [
+      "Foretold Ruin"
+    ],
+    "skill": "If an attack is perfectly blocked with Shield, 1 Impair on all enemies (1 per turn)",
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/equipment/v2afcn6djsr5hl25d3ol441763892359571.webp",
+    "createdAt": "2025-11-23T10:05:59.571Z"
+  },
+  {
+    "id": 103,
+    "name": "Crimson Bloodstone",
+    "type": "accessory",
+    "rarity": "Legendary",
+    "local": [
+      "The blue pot"
+    ],
+    "skill": "When an Attack Card is used, Recover 9% of Damage Dealt (1 time per turn)",
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/equipment/szz7nk9tj9j35hranfe5z61763892410454.webp",
+    "createdAt": "2025-11-23T10:06:50.454Z"
+  },
+  {
+    "id": 104,
+    "name": "Dimensional Cube",
+    "type": "accessory",
+    "rarity": "Legendary",
+    "local": [
+      "Shop"
+    ],
+    "skill": "When a card is Discarded, +15% Damage Amount for 1 turn (max 3 stacks)",
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/equipment/rx7ys8t8e7q3go9zvijedb1763892433200.webp",
+    "createdAt": "2025-11-23T10:07:13.200Z"
+  },
+  {
+    "id": 105,
+    "name": "Emblem of an Exceptional Entity",
+    "type": "accessory",
+    "rarity": "Legendary",
+    "local": [
+      "Laboratory 0"
+    ],
+    "skill": "+30% Damage AmountStress received becomes 0 (1 for each battle)",
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/equipment/i2h4oxqjn6br0bolceppe1763892468036.webp",
+    "createdAt": "2025-11-23T10:07:48.036Z"
+  },
+  {
+    "id": 106,
+    "name": "Eternal Stone",
+    "type": "accessory",
+    "rarity": "Legendary",
+    "local": [
+      "The blue pot",
+      "City of mist"
+    ],
+    "skill": "At the start of the turn, 25% Fixed Shield for each enemy count",
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/equipment/xt94bko2hxey935i2jjekg1763892484790.webp",
+    "createdAt": "2025-11-23T10:08:04.790Z"
+  },
+  {
+    "id": 107,
+    "name": "Eye of the Eyeless",
+    "type": "accessory",
+    "rarity": "Legendary",
+    "local": [
+      "City of mist"
+    ],
+    "skill": "Increase damage of Basic attack cards by 40%",
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/equipment/pv9x7noxqbrdw2y7pmc321763892496407.webp",
+    "createdAt": "2025-11-23T10:08:16.407Z"
+  },
+  {
+    "id": 108,
+    "name": "Flower of Dead Souls",
+    "type": "accessory",
+    "rarity": "Legendary",
+    "local": [
+      "City of mist"
+    ],
+    "skill": "Increase Damage Amount of the second Attack Card onward each turn by 20%",
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/equipment/3lww9b07vl1pk43x28a331763892510310.webp",
+    "createdAt": "2025-11-23T10:08:30.310Z"
+  },
+  {
+    "id": 109,
+    "name": "Grey Orb",
+    "type": "accessory",
+    "rarity": "Legendary",
+    "local": [
+      "Shop"
+    ],
+    "skill": "At the start of battle, gain 3 Damage Reduction",
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/equipment/62xgx6awe83rq5s40dnm71763892528720.webp",
+    "createdAt": "2025-11-23T10:08:48.720Z"
+  },
+  {
+    "id": 110,
+    "name": "Guardian Core",
+    "type": "accessory",
+    "rarity": "Legendary",
+    "local": [
+      "Foretold Ruin"
+    ],
+    "skill": "When there is an enemy whose Anticipated Action is Attack, 60% Fixed Shield (1 time per turn)",
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/equipment/wqplre78ucgd8sx1pe4iog1763892545878.webp",
+    "createdAt": "2025-11-23T10:09:05.878Z"
+  },
+  {
+    "id": 111,
+    "name": "Heart of Gold",
+    "type": "accessory",
+    "rarity": "Legendary",
+    "local": [
+      "Shop"
+    ],
+    "skill": "At the end of battle, if HP is 50% or less, Recover 8% of Max HP",
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/equipment/e20q8auznpsmuofnnyxg61763892562441.webp",
+    "createdAt": "2025-11-23T10:09:22.441Z"
+  },
+  {
+    "id": 112,
+    "name": "Heart of the Jewel",
+    "type": "accessory",
+    "rarity": "Legendary",
+    "local": [
+      "Shop"
+    ],
+    "skill": "X is applied as X+1",
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/equipment/gdzu5lbxpxehx21h7h681763892586060.webp",
+    "createdAt": "2025-11-23T10:09:46.060Z"
+  },
+  {
+    "id": 113,
+    "name": "Kirak’s Core",
+    "type": "accessory",
+    "rarity": "Legendary",
+    "local": [
+      "Twin Star's Shadow"
+    ],
+    "skill": "At the start of the turn, if below 40% of Max HP, Recover 5% of Max HP",
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/equipment/id9ji4640xn6t6iyef9q4o1763892604566.webp",
+    "createdAt": "2025-11-23T10:10:04.566Z",
+    "updatedAt": "2025-12-13T10:57:53.945Z"
+  },
+  {
+    "id": 114,
+    "name": "Lead-Colored Holy Water",
+    "type": "accessory",
+    "rarity": "Legendary",
+    "local": [
+      "Swamp of Judgment",
+      "Foretold Ruin"
+    ],
+    "skill": "On Ravage, 2 Impair to the target",
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/equipment/uh5df0qfyvmwolx63bcms1763892627562.webp",
+    "createdAt": "2025-11-23T10:10:27.562Z"
+  },
+  {
+    "id": 115,
+    "name": "Lepidola's Wing",
+    "type": "accessory",
+    "rarity": "Legendary",
+    "local": [
+      "Twin Star's Shadow"
+    ],
+    "skill": "At the start of the battle, 1 Evade",
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/equipment/7hd0zur7o5dlzbtpsfpmg1763892639105.webp",
+    "createdAt": "2025-11-23T10:10:39.105Z"
+  },
+  {
+    "id": 116,
+    "name": "M.S.S. Data Pad SE",
+    "type": "accessory",
+    "rarity": "Legendary",
+    "local": [
+      "City of mist"
+    ],
+    "skill": "At the start of Nihilum battle, 3 Vulnerable to all enemies",
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/equipment/wj312g621tahbgq7xitg1i1763892655724.webp",
+    "createdAt": "2025-11-23T10:10:55.724Z",
+    "updatedAt": "2025-12-13T10:58:07.835Z"
+  },
+  {
+    "id": 117,
+    "name": "Madman's Masterpiece",
+    "type": "accessory",
+    "rarity": "Legendary",
+    "local": [
+      "The blue pot"
+    ],
+    "skill": "At the start of an Elite Battle, +50% Damage",
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/equipment/l6pbrgclcedp3ah8oibkal1763892678006.webp",
+    "createdAt": "2025-11-23T10:11:18.006Z",
+    "updatedAt": "2025-12-13T10:58:18.516Z"
+  },
+  {
+    "id": 118,
+    "name": "Moon of Destruction",
+    "type": "accessory",
+    "rarity": "Legendary",
+    "local": [
+      "Shop"
+    ],
+    "skill": "At the start of battle, 200% Fixed Damage to all enemies",
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/equipment/35kc1gjpotvtyhpjtkv8t1763892692826.webp",
+    "createdAt": "2025-11-23T10:11:32.826Z"
+  },
+  {
+    "id": 119,
+    "name": "Natural Predator",
+    "type": "accessory",
+    "rarity": "Legendary",
+    "local": [
+      "Twin Star's Shadow"
+    ],
+    "skill": "On Ravage, +100% Damage to next 1 Attack Card used",
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/equipment/h15dsxp3yew5zbb69xnh1763892710981.webp",
+    "createdAt": "2025-11-23T10:11:50.981Z"
+  },
+  {
+    "id": 120,
+    "name": "Nature's Gift",
+    "type": "accessory",
+    "rarity": "Legendary",
+    "local": [
+      "The blue pot",
+      "City of mist"
+    ],
+    "skill": "Heal 40% at the end of turn",
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/equipment/ilbse7uzi38chykudyon1763892739369.webp",
+    "createdAt": "2025-11-23T10:12:19.369Z",
+    "updatedAt": "2025-12-13T10:58:34.061Z"
+  },
+  {
+    "id": 121,
+    "name": "Order’s Emblem",
+    "type": "accessory",
+    "rarity": "Legendary",
+    "local": [
+      "The blue pot"
+    ],
+    "skill": "In Chaos Order battles, +15% Defense",
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/equipment/p7trmev5mdzhgv6k99u5s1763892793893.webp",
+    "createdAt": "2025-11-23T10:13:13.893Z",
+    "updatedAt": "2025-12-13T10:58:50.254Z"
+  },
+  {
+    "id": 122,
+    "name": "Palasia's Orb",
+    "type": "accessory",
+    "rarity": "Legendary",
+    "local": [
+      "City of mist"
+    ],
+    "skill": "When Vulnerable is applied by a card, also 1 Weaken to the target",
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/equipment/pud6jbww3ged0g9yub7m741763892808999.webp",
+    "createdAt": "2025-11-23T10:13:28.999Z",
+    "updatedAt": "2025-12-13T10:59:03.585Z"
+  },
+  {
+    "id": 123,
+    "name": "Quantum Collector",
+    "type": "accessory",
+    "rarity": "Legendary",
+    "local": [
+      "Shop"
+    ],
+    "skill": "When an ally uses an Upgrade Card, increase Damage, Shield Gain, Heal Amounts by 20% for 1 turn",
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/equipment/g04voa17jp9ulgs1a1dy4b1763892830824.webp",
+    "createdAt": "2025-11-23T10:13:50.824Z"
+  },
+  {
+    "id": 124,
+    "name": "Source of the Forbidden",
+    "type": "accessory",
+    "rarity": "Legendary",
+    "local": [
+      "Laboratory 0"
+    ],
+    "skill": "When hit, inflict 1 random effects among Vulnerable, Weaken, or Impair to the attacker (3 times per turn)",
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/equipment/tgxuauk1g4pg1il9moerfu1763892852763.webp",
+    "createdAt": "2025-11-23T10:14:12.763Z"
+  },
+  {
+    "id": 125,
+    "name": "Superconductive Protein",
+    "type": "accessory",
+    "rarity": "Legendary",
+    "local": [
+      "Shop"
+    ],
+    "skill": "At the start of the battle, change the cost of 1 card in your hand to 0 for 1 turn",
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/equipment/bicq27quten6zw60i62wx1763892864910.webp",
+    "createdAt": "2025-11-23T10:14:24.909Z"
+  },
+  {
+    "id": 126,
+    "name": "The Golden Rule",
+    "type": "accessory",
+    "rarity": "Legendary",
+    "local": [
+      "Swamp of Judgment",
+      "Foretold Ruin"
+    ],
+    "skill": "+20% Damage Amount, +20 Shield gain",
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/equipment/blzetg7iacafp1dqqh2jjv1763892881322.webp",
+    "createdAt": "2025-11-23T10:14:41.322Z"
+  },
+  {
+    "id": 127,
+    "name": "Torch That Should Not Be Extinguished",
+    "type": "accessory",
+    "rarity": "Legendary",
+    "local": [
+      "City of mist"
+    ],
+    "skill": "If you have Shield at the start of turn, 80% Fixed Shield",
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/equipment/n6dgqxyfkdkem7a3ru5u1763893136296.webp",
+    "createdAt": "2025-11-23T10:18:56.296Z"
+  },
+  {
+    "id": 128,
+    "name": "Unconfirmed Recovery Ampule",
+    "type": "accessory",
+    "rarity": "Legendary",
+    "local": [
+      "Laboratory 0",
+      "Shop"
+    ],
+    "skill": "When an ally uses a Forbidden Card, Recover 3% of Max HP, 80% Fixed Shield",
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/equipment/qv5wn0xq8qpoh1nc8n5xp1763893161106.webp",
+    "createdAt": "2025-11-23T10:19:21.106Z"
+  },
+  {
+    "id": 129,
+    "name": "Verdant Day",
+    "type": "accessory",
+    "rarity": "Legendary",
+    "local": [
+      "Swamp of Judgment"
+    ],
+    "skill": "On odd turns, +8% Attack, +12% Defense",
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/equipment/78t4oe2zn7hfzfxqv3vn1763893183704.webp",
+    "createdAt": "2025-11-23T10:19:43.704Z"
+  },
+  {
+    "id": 130,
+    "name": "Verdant Night",
+    "type": "accessory",
+    "rarity": "Legendary",
+    "local": [
+      "Swamp of Judgment"
+    ],
+    "skill": "On even turns, +12% Attack, +8% Defense",
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/equipment/ae68qte8jkcl0xoyk80h21763893201967.webp",
+    "createdAt": "2025-11-23T10:20:01.967Z"
+  },
+  {
+    "id": 131,
+    "name": "Viadeus’s Reactor",
+    "type": "accessory",
+    "rarity": "Legendary",
+    "local": [
+      "Swamp of Judgment",
+      "Foretold Ruin"
+    ],
+    "skill": "When an Upgrade Card is used, 1 Damage Reduction",
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/equipment/2ny57mrv7ovq49n9jzogqs1763893235548.webp",
+    "createdAt": "2025-11-23T10:20:35.548Z",
+    "updatedAt": "2025-12-13T10:59:18.468Z"
+  },
+  {
+    "id": 132,
+    "name": "Voracious Swarm",
+    "type": "accessory",
+    "rarity": "Legendary",
+    "local": [
+      "Twin Star's Shadow"
+    ],
+    "skill": "When taking Damage, 4 Agony on the attacker",
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/equipment/50tyfn12hvoxofgj8gkon1763893276065.webp",
+    "createdAt": "2025-11-23T10:21:16.065Z"
+  },
+  {
+    "id": 133,
+    "name": "Water Drops of the Goddess",
+    "type": "accessory",
+    "rarity": "Legendary",
+    "local": [
+      "Shop"
+    ],
+    "skill": "At the start of battle, 1 Stockpile",
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/equipment/paisu2uomqyw57o5pa291763893308117.webp",
+    "createdAt": "2025-11-23T10:21:48.117Z"
+  },
+  {
+    "id": 134,
+    "name": "Branch of Eternity",
+    "type": "weapon",
+    "rarity": "Unique",
+    "local": [
+      "Swamp of Judgment"
+    ],
+    "skill": "On Heal or Recover, inflict Fixed Damage to all enemies equal to 50% of Recover Amount",
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/equipment/8n89gooyjpp9kb2b9sq3061763898489292.webp",
+    "createdAt": "2025-11-23T11:10:00.363Z",
+    "updatedAt": "2025-11-23T11:48:09.291Z"
+  },
+  {
+    "id": 135,
+    "name": "Chimeranite",
+    "type": "weapon",
+    "rarity": "Unique",
+    "local": [
+      "Laboratory 0"
+    ],
+    "skill": "When Drawing by an ability, increase Damage Amount of Attack Cards of this unit by 35% for 1 turn (1 time per turn)",
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/equipment/eoe6s5lbdfwp3si803pfde1763898508851.webp",
+    "createdAt": "2025-11-23T11:10:22.423Z",
+    "updatedAt": "2025-11-23T11:48:28.851Z"
+  },
+  {
+    "id": 136,
+    "name": "Dark Grip’s Claws",
+    "type": "weapon",
+    "rarity": "Unique",
+    "local": [
+      "The blue pot"
+    ],
+    "skill": "Increase Damage Amount of All-Target Attacks by 25%",
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/equipment/t2uef1nu18myepprr0m8i1763898529873.webp",
+    "createdAt": "2025-11-23T11:10:34.143Z",
+    "updatedAt": "2025-12-13T10:59:41.720Z"
+  },
+  {
+    "id": 137,
+    "name": "Foggy Crystal Ball",
+    "type": "weapon",
+    "rarity": "Unique",
+    "local": [
+      "City of mist"
+    ],
+    "skill": "Increase Damage Amount of Attack Cards with a Cost of 0 by 40%",
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/equipment/0dj07v8w3blki6d16xs8ydr1763898548392.webp",
+    "createdAt": "2025-11-23T11:10:54.614Z",
+    "updatedAt": "2025-11-23T11:49:08.391Z"
+  },
+  {
+    "id": 138,
+    "name": "Formica’s Perfect Spear",
+    "type": "weapon",
+    "rarity": "Unique",
+    "local": [
+      "Twin Star's Shadow"
+    ],
+    "skill": "Increases Damage Amount by 7% for each enemyIncrease Damage Amount of All-Target Attacks by 10%",
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/equipment/3tarm31osp6jr4ahan7wsm1763898560957.webp",
+    "createdAt": "2025-11-23T11:11:19.579Z",
+    "updatedAt": "2025-12-13T10:59:59.744Z"
+  },
+  {
+    "id": 139,
+    "name": "Intellect of Discord",
+    "type": "weapon",
+    "rarity": "Unique",
+    "local": [
+      "Cthulu"
+    ],
+    "skill": "+18% AttackOn Ravage, decrease Stress of allies by 1",
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/equipment/4ugfjs25suqb4luyzgw1i1763898574009.webp",
+    "createdAt": "2025-11-23T11:11:33.240Z",
+    "updatedAt": "2025-12-13T10:52:36.818Z"
+  },
+  {
+    "id": 140,
+    "name": "Lepidola's Whip",
+    "type": "weapon",
+    "rarity": "Unique",
+    "local": [
+      "Twin Star's Shadow"
+    ],
+    "skill": "Increase Damage Amount of Attack Cards with a Cost of 1 or less by 25%",
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/equipment/7591kcxnpvs34gxxcouw6w1763898584166.webp",
+    "createdAt": "2025-11-23T11:11:49.856Z",
+    "updatedAt": "2025-11-23T11:49:44.166Z"
+  },
+  {
+    "id": 141,
+    "name": "Radiant Orb",
+    "type": "weapon",
+    "rarity": "Unique",
+    "local": [
+      "Foretold Ruin"
+    ],
+    "skill": "Increase Damage Amount by 25% against targets holding Shield",
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/equipment/l7m64z2yysgje5eb965w2j1763898591672.webp",
+    "createdAt": "2025-11-23T11:12:15.320Z",
+    "updatedAt": "2025-11-23T11:49:51.671Z"
+  },
+  {
+    "id": 142,
+    "name": "Shell Bug Horn",
+    "type": "weapon",
+    "rarity": "Unique",
+    "local": [
+      "Twin Star's Shadow"
+    ],
+    "skill": "+20% Critical Damage",
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/equipment/y0k85vs6fzkebq3o8ks6an1763898601820.webp",
+    "createdAt": "2025-11-23T11:12:34.199Z",
+    "updatedAt": "2025-11-23T11:50:01.819Z"
+  },
+  {
+    "id": 143,
+    "name": "Tentacles of Chaos",
+    "type": "weapon",
+    "rarity": "Unique",
+    "local": [
+      "Cthulu"
+    ],
+    "skill": "+8% ally AttackUpon enemy Defeat, -2 Stress to the Combatant with the highest Stress",
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/equipment/1956b6bz2r59e4rhtod88i1763898609998.webp",
+    "createdAt": "2025-11-23T11:13:18.503Z",
+    "updatedAt": "2025-11-23T11:50:09.998Z"
+  },
+  {
+    "id": 144,
+    "name": "Twin Swords of Great and Lesser Evil",
+    "type": "weapon",
+    "rarity": "Unique",
+    "local": [
+      "Twin Star's Shadow"
+    ],
+    "skill": "Increase Damage Amount by 30% against targets in a Ravaged state",
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/equipment/f3jur12z5jg6izu3t302lw1763898618427.webp",
+    "createdAt": "2025-11-23T11:13:37.485Z",
+    "updatedAt": "2025-12-13T11:00:17.585Z"
+  },
+  {
+    "id": 145,
+    "name": "Void of the Devourer",
+    "type": "weapon",
+    "rarity": "Unique",
+    "local": [
+      "City of mist"
+    ],
+    "skill": "When a card is Exhausted, increases Damage Amount of the next card used by 35% (can stack up to 1 time)",
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/equipment/hrt52nxlbvm0zm2q3d8nchs1763898627592.webp",
+    "createdAt": "2025-11-23T11:14:01.339Z",
+    "updatedAt": "2025-11-23T11:50:27.591Z"
+  },
+  {
+    "id": 146,
+    "name": "Mutated Order",
+    "type": "weapon",
+    "rarity": "Unique",
+    "local": [
+      "The blue pot"
+    ],
+    "skill": "Increase Damage Amount by 25% against targets that haven't acted",
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/equipment/dz41gt2atjreulnai3rgcg1763898272268.webp",
+    "createdAt": "2025-11-23T11:14:21.165Z",
+    "updatedAt": "2025-11-23T11:44:32.268Z"
+  },
+  {
+    "id": 147,
+    "name": "Consecrated Halo",
+    "type": "armor",
+    "rarity": "Unique",
+    "local": [
+      "Foretold Ruin"
+    ],
+    "skill": "Increase Shield Gain Amount by 25%",
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/equipment/x5qyng3qoql788c1q98t1763898637750.webp",
+    "createdAt": "2025-11-23T11:15:47.954Z",
+    "updatedAt": "2025-11-23T11:50:37.750Z"
+  },
+  {
+    "id": 148,
+    "name": "Fragment of the Empty Void",
+    "type": "armor",
+    "rarity": "Unique",
+    "local": [
+      "City of mist"
+    ],
+    "skill": "At the start of battle, Discard up to 3 cards, Draw equal to the number",
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/equipment/ujmegm5a1oo2k28e5gce1763898651867.webp",
+    "createdAt": "2025-11-23T11:16:04.446Z",
+    "updatedAt": "2025-11-23T11:50:51.867Z"
+  },
+  {
+    "id": 149,
+    "name": "Kentris Chitin Armor",
+    "type": "armor",
+    "rarity": "Unique",
+    "local": [
+      "The blue pot"
+    ],
+    "skill": "Increase Shield Gain Amount of allies by 15%",
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/equipment/g7z6f0fxessuelvtlne3b1763898664380.webp",
+    "createdAt": "2025-11-23T11:16:18.937Z",
+    "updatedAt": "2025-11-23T11:51:04.380Z"
+  },
+  {
+    "id": 150,
+    "name": "Mask of Flames",
+    "type": "armor",
+    "rarity": "Unique",
+    "local": [
+      "Swamp of Judgment"
+    ],
+    "skill": "Increase damage dealt to Vulnerable targets by 35%",
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/equipment/33cub2g4u4klqhdtuv9ey1763898675555.webp",
+    "createdAt": "2025-11-23T11:16:56.555Z",
+    "updatedAt": "2025-11-23T11:51:15.555Z"
+  },
+  {
+    "id": 151,
+    "name": "Primordial Discipline",
+    "type": "armor",
+    "rarity": "Unique",
+    "local": [
+      "Foretold Ruin"
+    ],
+    "skill": "At the start of battle, gain 2 Immunity",
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/equipment/aortl3iu0hm3bdlf70sxs1763898682055.webp",
+    "createdAt": "2025-11-23T11:17:11.280Z",
+    "updatedAt": "2025-11-23T11:51:22.055Z"
+  },
+  {
+    "id": 152,
+    "name": "Shell of Aberration",
+    "type": "armor",
+    "rarity": "Unique",
+    "local": [
+      "Cthulu"
+    ],
+    "skill": "+12% DefenseWhen Stress increases, there is a 50% chance that Stress increases by 1 less",
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/equipment/p3sqsa8ps6c9pm5n4dnpf1763898689019.webp",
+    "createdAt": "2025-11-23T11:18:38.344Z",
+    "updatedAt": "2025-12-13T11:00:53.207Z"
+  },
+  {
+    "id": 153,
+    "name": "Star-Lit Cloak",
+    "type": "armor",
+    "rarity": "Unique",
+    "local": [
+      "Swamp of Judgment"
+    ],
+    "skill": "Decrease Damage Taken by 10% (1 time per turn)",
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/equipment/axpltvz1mgqg960fqrhz0e1763898696430.webp",
+    "createdAt": "2025-11-23T11:18:51.003Z",
+    "updatedAt": "2025-11-23T11:51:36.430Z"
+  },
+  {
+    "id": 154,
+    "name": "Wild Fur Cloak",
+    "type": "armor",
+    "rarity": "Unique",
+    "local": [
+      "The blue pot"
+    ],
+    "skill": "At turn start, Counterattack 1",
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/equipment/xsq5onhc6sdx1cw788f11763898708875.webp",
+    "createdAt": "2025-11-23T11:19:13.737Z",
+    "updatedAt": "2025-11-23T11:51:48.875Z"
+  },
+  {
+    "id": 155,
+    "name": "Wings of the Swarm",
+    "type": "armor",
+    "rarity": "Unique",
+    "local": [
+      "Twin Star's Shadow"
+    ],
+    "skill": "At the start of battle, gain 2 Immunity",
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/equipment/5yn0drjp03om69qbrzlm1763898727328.webp",
+    "createdAt": "2025-11-23T11:19:49.179Z",
+    "updatedAt": "2025-11-23T11:52:07.328Z"
+  },
+  {
+    "id": 156,
+    "name": "Announcement of Catastrophe",
+    "type": "armor",
+    "rarity": "Unique",
+    "local": [
+      "Cthulu"
+    ],
+    "skill": "+12% DefenseDecrease the number of Break Recovery cards required by all Combatants by 1",
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/equipment/ozxs2ivfxykn91j1al9h2o1763898734502.webp",
+    "createdAt": "2025-11-23T11:20:08.959Z",
+    "updatedAt": "2025-11-23T11:52:14.502Z"
+  },
+  {
+    "id": 157,
+    "name": "Corrupted Core",
+    "type": "accessory",
+    "rarity": "Unique",
+    "local": [
+      "Foretold Ruin"
+    ],
+    "skill": "+15% Defense, Retain +20% Shield",
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/equipment/5bvayi5cqcl9wuakuuhvv51763898120045.webp",
+    "createdAt": "2025-11-23T11:42:00.045Z"
+  },
+  {
+    "id": 158,
+    "name": "Dice of Discord",
+    "type": "accessory",
+    "rarity": "Unique",
+    "local": [
+      "The blue pot",
+      "Twin Star's Shadow"
+    ],
+    "skill": "At the end of the turn, 40% × 2~6 Fixed Damage to a random enemies, and trigger 200% Fixed Damage on allies with 1 random effect",
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/equipment/1omuwvrbhz9hgwkq661czd1763898135079.webp",
+    "createdAt": "2025-11-23T11:42:15.079Z",
+    "updatedAt": "2025-12-13T10:52:08.903Z"
+  },
+  {
+    "id": 159,
+    "name": "Dice of Derangement",
+    "type": "accessory",
+    "rarity": "Unique",
+    "local": [
+      "Cthulu"
+    ],
+    "skill": "+8% Max HPAt the end of battle, if HP is below 50%, recover 8% Max HPAt the end of the battle, if HP is 50% or higher, -5 Stress to the Combatant with the highest Stress",
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/equipment/w8dn2neuute17nvod28i1763898147072.webp",
+    "createdAt": "2025-11-23T11:42:27.072Z"
+  },
+  {
+    "id": 160,
+    "name": "Dormant Seeds",
+    "type": "accessory",
+    "rarity": "Unique",
+    "local": [
+      "Swamp of Judgment"
+    ],
+    "skill": "When gaining Shield, 100% Fixed Shield (1 time per turn)",
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/equipment/90kes884llt8brjsm4l5861763898177796.webp",
+    "createdAt": "2025-11-23T11:42:57.796Z"
+  },
+  {
+    "id": 161,
+    "name": "Eye of Gluttony",
+    "type": "accessory",
+    "rarity": "Unique",
+    "local": [
+      "City of mist"
+    ],
+    "skill": "+40% Damage amount. At the end of the turn, 30% chance to Exhaust 1 card in hand",
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/equipment/ccy78bho1zu3m8q2jk8gnu1763898192014.webp",
+    "createdAt": "2025-11-23T11:43:12.014Z"
+  },
+  {
+    "id": 162,
+    "name": "Eye of the Punisher",
+    "type": "accessory",
+    "rarity": "Unique",
+    "local": [
+      "Foretold Ruin"
+    ],
+    "skill": "If the enemy is alone, increase damage by 30%",
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/equipment/scgf4vz4atsbset2s1zdi81763898210049.webp",
+    "createdAt": "2025-11-23T11:43:30.049Z"
+  },
+  {
+    "id": 163,
+    "name": "Forbidden Bible",
+    "type": "accessory",
+    "rarity": "Unique",
+    "local": [
+      "The blue pot"
+    ],
+    "skill": "At the start of the fourth turn, 550% Fixed Damage to all enemies",
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/equipment/psj43fjyaqdo18u0jd55lc1763898224184.webp",
+    "createdAt": "2025-11-23T11:43:44.184Z"
+  },
+  {
+    "id": 164,
+    "name": "Gloomy Prime’s Eye",
+    "type": "accessory",
+    "rarity": "Unique",
+    "local": [
+      "The blue pot"
+    ],
+    "skill": "+40% Shield gain",
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/equipment/niza788aabi1k9zuql6aq1763898246806.webp",
+    "createdAt": "2025-11-23T11:44:06.806Z",
+    "updatedAt": "2025-12-13T11:01:20.199Z"
+  },
+  {
+    "id": 165,
+    "name": "Pulsating Egg",
+    "type": "accessory",
+    "rarity": "Unique",
+    "local": [
+      "Twin Star's Shadow"
+    ],
+    "skill": "+15% Attack, +10% Max HP",
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/equipment/9tnjeglwzrqle2sl2gcfp81763898299466.webp",
+    "createdAt": "2025-11-23T11:44:59.466Z"
+  },
+  {
+    "id": 166,
+    "name": "Revelation's of Futility",
+    "type": "accessory",
+    "rarity": "Unique",
+    "local": [
+      "City of mist"
+    ],
+    "skill": "When an Attack Card is used, 20% Fixed Shield (10 times per turn)",
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/equipment/0q1pue01dqrnhaf7zsiaqct1763898323958.webp",
+    "createdAt": "2025-11-23T11:45:23.958Z",
+    "updatedAt": "2025-12-13T11:01:33.628Z"
+  },
+  {
+    "id": 167,
+    "name": "Sphere of Randomness",
+    "type": "accessory",
+    "rarity": "Unique",
+    "local": [
+      "Cthulu"
+    ],
+    "skill": "+10% max HPAt the start of battle, +1 AP, Draw 1",
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/equipment/k4ou362hi36z9atp4yhv31763898335844.webp",
+    "createdAt": "2025-11-23T11:45:35.844Z"
+  },
+  {
+    "id": 168,
+    "name": "Verdant Shackles",
+    "type": "accessory",
+    "rarity": "Unique",
+    "local": [
+      "Swamp of Judgment"
+    ],
+    "skill": "+12% Attack, +12% Defense",
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/equipment/s1wkwh63z5d2nkwhxqqfn1763898348216.webp",
+    "createdAt": "2025-11-23T11:45:48.216Z"
+  },
+  {
+    "id": 169,
+    "name": "Arc Drive",
+    "type": "accessory",
+    "rarity": "rare",
+    "local": [
+      "Burning Life"
+    ],
+    "skill": "Activate Epiphany for the equipped combatant",
+    "image": "item/relics/relic_12027.webp",
+    "createdAt": "2026-02-04T08:30:01.342Z",
+    "updatedAt": "2026-02-04T08:30:01.342Z"
+  },
+  {
+    "id": 170,
+    "name": "Pain Suppressor",
+    "type": "RELIC",
+    "rarity": "rare",
+    "local": [
+      "Burning Life"
+    ],
+    "skill": "At the start of battle, gain 1 Immunity",
+    "image": "item/relics/relic_1014.webp",
+    "createdAt": "2026-02-04T08:30:01.358Z",
+    "updatedAt": "2026-02-04T08:30:01.358Z"
+  },
+  {
+    "id": 171,
+    "name": "Reactive Deflecting Suit",
+    "type": "armor",
+    "rarity": "rare",
+    "local": [
+      "Burning Life"
+    ],
+    "skill": "At the start of battle, gain 5 Thorns",
+    "image": "item/relics/relic_1158.webp",
+    "createdAt": "2026-02-04T08:30:01.382Z",
+    "updatedAt": "2026-02-04T08:30:01.382Z"
+  },
+  {
+    "id": 172,
+    "name": "Millennium Arbor",
+    "type": "weapon",
+    "rarity": "rare",
+    "local": [
+      "Burning Life"
+    ],
+    "skill": "When a 3-Cost or higher card is activated, 1 Vulnerable to a random enemy",
+    "image": "item/relics/relic_5021.webp",
+    "createdAt": "2026-02-04T08:30:01.401Z",
+    "updatedAt": "2026-02-04T08:30:01.401Z"
+  },
+  {
+    "id": 173,
+    "name": "Veiled Thorn",
+    "type": "weapon",
+    "rarity": "Legendary",
+    "local": [
+      "Burning Life"
+    ],
+    "skill": "If allies do not receive Damage for 1 turn, then at the start of the next turn, increase Damage Amount by 50% for 1 turn",
+    "image": "item/relics/relic_5022.webp",
+    "createdAt": "2026-02-04T08:30:01.415Z",
+    "updatedAt": "2026-02-04T08:30:01.415Z"
+  },
+  {
+    "id": 174,
+    "name": "Phytotype Synthetic",
+    "type": "armor",
+    "rarity": "Legendary",
+    "local": [
+      "Burning Life"
+    ],
+    "skill": "When Shield is gained, increase Damage Amount of the next 1 Attack Card activated by 20% for 1 turn (2 times per turn)",
+    "image": "item/relics/relic_5023.webp",
+    "createdAt": "2026-02-04T08:30:01.436Z",
+    "updatedAt": "2026-02-04T08:30:01.436Z"
+  },
+  {
+    "id": 175,
+    "name": "Vine Camouflage",
+    "type": "armor",
+    "rarity": "rare",
+    "local": [
+      "Burning Life"
+    ],
+    "skill": "At the start of the turn, if Health is 30% or less, 1 Evade (2 times per battle)",
+    "image": "item/relics/relic_5025.webp",
+    "createdAt": "2026-02-04T08:30:01.453Z",
+    "updatedAt": "2026-02-04T08:30:01.453Z"
+  },
+  {
+    "id": 176,
+    "name": "Moss Armor",
+    "type": "armor",
+    "rarity": "rare",
+    "local": [
+      "Burning Life"
+    ],
+    "skill": "When an ally Attack Card was not activated for 1 turn and the turn is ended, 100% Fixed Shield",
+    "image": "item/relics/relic_5024.webp",
+    "createdAt": "2026-02-04T08:30:01.463Z",
+    "updatedAt": "2026-02-04T08:30:01.463Z"
+  },
+  {
+    "id": 177,
+    "name": "Leaf of the World Tree",
+    "type": "accessory",
+    "rarity": "Legendary",
+    "local": [
+      "Burning Life"
+    ],
+    "skill": "When 3 cards of 2-Cost or higher are used,  Stockpile",
+    "image": "item/relics/relic_5026.webp",
+    "createdAt": "2026-02-04T08:30:01.487Z",
+    "updatedAt": "2026-02-04T08:30:01.487Z"
+  },
+  {
+    "id": 178,
+    "name": "Plant Doll",
+    "type": "accessory",
+    "rarity": "rare",
+    "local": [
+      "Burning Life"
+    ],
+    "skill": "When 4 Skill Cards are Exhausted, decrease Stress of a random ally by 1",
+    "image": "item/relics/relic_5027.webp",
+    "createdAt": "2026-02-04T08:30:01.498Z",
+    "updatedAt": "2026-02-04T08:30:01.498Z"
+  },
+  {
+    "id": 179,
+    "name": "Luminescent Shroom",
+    "type": "accessory",
+    "rarity": "Legendary",
+    "local": [
+      "Burning Life"
+    ],
+    "skill": "Double the effect of Spore Propagation on the 6th Attack Card created for 1 turn",
+    "image": "item/relics/relic_5028.webp",
+    "createdAt": "2026-02-04T08:30:01.519Z",
+    "updatedAt": "2026-02-04T08:30:01.519Z"
+  },
+  {
+    "id": 180,
+    "name": "Arm of Lost Valor",
+    "type": "weapon",
+    "rarity": "rare",
+    "local": [
+      "Burning Life"
+    ],
+    "skill": "When an Attack Card was not activated for 1 turn and the turn is ended, create 1 ^card@card_arena_00001^",
+    "image": "item/relics/relic_5029.webp",
+    "createdAt": "2026-02-04T08:30:01.539Z",
+    "updatedAt": "2026-02-04T08:30:01.539Z"
+  },
+  {
+    "id": 181,
+    "name": "Harpoon Case of Broken Resolve",
+    "type": "weapon",
+    "rarity": "rare",
+    "local": [
+      "Burning Life"
+    ],
+    "skill": "Create 1 ^card@card_arena_00002^ each odd turn",
+    "image": "item/relics/relic_5030.webp",
+    "createdAt": "2026-02-04T08:30:01.570Z",
+    "updatedAt": "2026-02-04T08:30:01.570Z"
+  },
+  {
+    "id": 182,
+    "name": "Shield of Ashen Sacrifice",
+    "type": "armor",
+    "rarity": "rare",
+    "local": [
+      "Burning Life"
+    ],
+    "skill": "If Damage is completely blocked, at the start of the next turn, create 1 ^card@card_arena_00003^",
+    "image": "item/relics/relic_5031.webp",
+    "createdAt": "2026-02-04T08:30:01.596Z",
+    "updatedAt": "2026-02-04T08:30:01.596Z"
+  },
+  {
+    "id": 183,
+    "name": "Launcher of Ruined Honor",
+    "type": "accessory",
+    "rarity": "rare",
+    "local": [
+      "Burning Life"
+    ],
+    "skill": "Create 1 ^card@card_arena_00004^ each even turn",
+    "image": "item/relics/relic_5032.webp",
+    "createdAt": "2026-02-04T08:30:01.621Z",
+    "updatedAt": "2026-02-04T08:30:01.621Z"
+  },
+  {
+    "id": 184,
+    "name": "Charger of Weathered Glory",
+    "type": "accessory",
+    "rarity": "rare",
+    "local": [
+      "Burning Life"
+    ],
+    "skill": "If a turn is ended while 1 or more AP remaining, at the start of the next turn, create 1 ^card@card_arena_00005^",
+    "image": "item/relics/relic_5033.webp",
+    "createdAt": "2026-02-04T08:30:01.650Z",
+    "updatedAt": "2026-02-04T08:30:01.650Z"
+  },
+  {
+    "id": 185,
+    "name": "Combat Drum",
+    "type": "accessory",
+    "rarity": "Legendary",
+    "local": [
+      "Burning Life"
+    ],
+    "skill": "When 5 Skill Cards are created, increase Damage Amount of the next ally card activated by 20% (max 1 stack)",
+    "image": "item/relics/relic_5034.webp",
+    "createdAt": "2026-02-04T08:30:01.662Z",
+    "updatedAt": "2026-02-04T08:30:01.662Z"
+  },
+  {
+    "id": 186,
+    "name": "Harp of Conflict",
+    "type": "weapon",
+    "rarity": "Legendary",
+    "local": [
+      "Burning Life"
+    ],
+    "skill": "For 1 turn, when each of Damage, Shield, and Heal has been activated through cards by allies, increase Damage Amount of allies by 15% for 1 turn",
+    "image": "item/relics/relic_5035.webp",
+    "createdAt": "2026-02-04T08:30:01.682Z",
+    "updatedAt": "2026-02-04T08:30:01.682Z"
+  },
+  {
+    "id": 187,
+    "name": "Gladiator’s Medallion",
+    "type": "accessory",
+    "rarity": "Legendary",
+    "local": [
+      "Burning Life"
+    ],
+    "skill": "When Shield is gained 3 times through cards, 100% Fixed Damage to all enemies",
+    "image": "item/relics/relic_5036.webp",
+    "createdAt": "2026-02-04T08:30:01.704Z",
+    "updatedAt": "2026-02-04T08:30:01.704Z"
+  },
+  {
+    "id": 188,
+    "name": "Rage Potion",
+    "type": "accessory",
+    "rarity": "Legendary",
+    "local": [
+      "Burning Life"
+    ],
+    "skill": "When 4 Attack Cards are activated, increase Damage Amount of the next Attack Card activated by 40%",
+    "image": "item/relics/relic_5037.webp",
+    "createdAt": "2026-02-04T08:30:01.716Z",
+    "updatedAt": "2026-02-04T08:30:01.716Z"
+  },
+  {
+    "id": 189,
+    "name": "Victor’s Laurel",
+    "type": "armor",
+    "rarity": "Legendary",
+    "local": [
+      "Burning Life"
+    ],
+    "skill": "Increase Damage Amount of Counterattack by 40%",
+    "image": "item/relics/relic_5038.webp",
+    "createdAt": "2026-02-04T08:30:01.737Z",
+    "updatedAt": "2026-02-04T08:30:01.737Z"
+  },
+  {
+    "id": 190,
+    "name": "Sword of Judgment",
+    "type": "weapon",
+    "rarity": "rare",
+    "local": [
+      "Burning Life"
+    ],
+    "skill": "When a card is Exhausted, increase Damage Amount by 10% for 1 turn (1 time per turn)",
+    "image": "item/relics/relic_5013.webp",
+    "createdAt": "2026-02-04T08:30:01.900Z",
+    "updatedAt": "2026-02-04T08:30:01.900Z"
+  },
+  {
+    "id": 191,
+    "name": "Shining Lyre",
+    "type": "armor",
+    "rarity": "rare",
+    "local": [
+      "Burning Life"
+    ],
+    "skill": "At the start of the turn, if an ally Exhaust card is in hand, 60% Fixed Shield",
+    "image": "item/relics/relic_5011.webp",
+    "createdAt": "2026-02-04T08:30:01.914Z",
+    "updatedAt": "2026-02-04T08:30:01.914Z"
+  },
+  {
+    "id": 192,
+    "name": "Golden Bell",
+    "type": "accessory",
+    "rarity": "rare",
+    "local": [
+      "Burning Life"
+    ],
+    "skill": "At the start of battle, decrease Stress of a random ally by 3",
+    "image": "item/relics/relic_5012.webp",
+    "createdAt": "2026-02-04T08:30:01.929Z",
+    "updatedAt": "2026-02-04T08:30:01.929Z"
+  },
+  {
+    "id": 193,
+    "name": "Summoned Lump of Light",
+    "type": "accessory",
+    "rarity": "rare",
+    "local": [
+      "Burning Life"
+    ],
+    "skill": "Increase Damage Amount of the third Attack Card created by 30% for 1 turn",
+    "image": "item/relics/relic_5010.webp",
+    "createdAt": "2026-02-04T08:30:01.952Z",
+    "updatedAt": "2026-02-04T08:30:01.952Z"
+  },
+  {
+    "id": 194,
+    "name": "Lightless Stem",
+    "type": "accessory",
+    "rarity": "rare",
+    "local": [
+      "Burning Life"
+    ],
+    "skill": "Increase Heal Amount by 15%",
+    "image": "item/relics/relic_5014.webp",
+    "createdAt": "2026-02-04T08:30:01.968Z",
+    "updatedAt": "2026-02-04T08:30:01.968Z"
+  },
+  {
+    "id": 195,
+    "name": "Shining World Tree Stem",
+    "type": "accessory",
+    "rarity": "Legendary",
+    "local": [
+      "Burning Life"
+    ],
+    "skill": "Increase Heal Amount by 25%",
+    "image": "item/relics/relic_5015.webp",
+    "createdAt": "2026-02-04T08:30:01.993Z",
+    "updatedAt": "2026-02-04T08:30:01.993Z"
+  },
+  {
+    "id": 196,
+    "name": "Robe of Oblivion",
+    "type": "armor",
+    "rarity": "Legendary",
+    "local": [
+      "Burning Life"
+    ],
+    "skill": "When Shield is gained through an Exhaust card, increase Damage Amount by 20% for 1 turn (1 time per turn)",
+    "image": "item/relics/relic_5016.webp",
+    "createdAt": "2026-02-04T08:30:02.011Z",
+    "updatedAt": "2026-02-04T08:30:02.011Z"
+  },
+  {
+    "id": 197,
+    "name": "Vine Lord’s Mask",
+    "type": "armor",
+    "rarity": "Legendary",
+    "local": [
+      "Burning Life"
+    ],
+    "skill": "When Drawing an Exhaust card through an ally ability, 80% Fixed Shield (2 times per turn)",
+    "image": "item/relics/relic_5017.webp",
+    "createdAt": "2026-02-04T08:30:02.030Z",
+    "updatedAt": "2026-02-04T08:30:02.030Z"
+  },
+  {
+    "id": 198,
+    "name": "Pale Eternal Flame",
+    "type": "weapon",
+    "rarity": "Legendary",
+    "local": [
+      "Burning Life"
+    ],
+    "skill": "When a card is Exhausted, increase Damage Amount of allies by % for 1 turn (1 time per turn)​",
+    "image": "item/relics/relic_5018.webp",
+    "createdAt": "2026-02-04T08:30:02.052Z",
+    "updatedAt": "2026-02-04T08:30:02.052Z"
+  },
+  {
+    "id": 199,
+    "name": "Brilliant Eternal Flame?",
+    "type": "weapon",
+    "rarity": "Unique",
+    "local": [
+      "Burning Life"
+    ],
+    "skill": "Increase Damage Amount of 2-Cost or higher Exhaust cards by 40%",
+    "image": "item/relics/relic_5019.webp",
+    "createdAt": "2026-02-04T08:30:02.080Z",
+    "updatedAt": "2026-02-04T08:30:02.080Z"
+  },
+  {
+    "id": 200,
+    "name": "Liberated Essence",
+    "type": "accessory",
+    "rarity": "Unique",
+    "local": [
+      "Burning Life"
+    ],
+    "skill": "At the start of the turn, decrease Cost of 1 random Exhaust card in hand by 1 for 1 turn",
+    "image": "item/relics/relic_5020.webp",
+    "createdAt": "2026-02-04T08:30:02.099Z",
+    "updatedAt": "2026-02-04T08:30:02.099Z"
+  }
+]
