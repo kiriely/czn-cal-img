@@ -7,7 +7,12 @@
       "all"
     ],
     "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/commonCards/tj87n5vcwd4o4i381b3l51763732030111.webp",
-    "createdAt": "2025-11-21T13:33:50.111Z"
+    "createdAt": "2025-11-21T13:33:50.111Z",
+    "cost": 0,
+    "cardClass": "Skill",
+    "skill": "Decrease Morale by <span class=\"eff-value\">1</span><br>Decrease Resolve by <span class=\"eff-value\">3</span>",
+    "rarity": "Common",
+    "updatedAt": "2025-11-27T16:41:54.671Z"
   },
   {
     "id": 3,
@@ -18,7 +23,12 @@
       "Hunter"
     ],
     "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/commonCards/kzjvcolahlw2pz552uyac1763732242068.webp",
-    "createdAt": "2025-11-21T13:37:22.068Z"
+    "createdAt": "2025-11-21T13:37:22.068Z",
+    "cost": 0,
+    "cardClass": "Skill",
+    "skill": "<span class=\"eff-value\">2</span> Impair to all enemies",
+    "updatedAt": "2026-02-04T09:21:07.642Z",
+    "rarity": "Common"
   },
   {
     "id": 4,
@@ -29,7 +39,12 @@
       "Vanguard"
     ],
     "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/commonCards/mo2q8jxem1fb4iu8jtp881763751677846.webp",
-    "createdAt": "2025-11-21T19:01:17.846Z"
+    "createdAt": "2025-11-21T19:01:17.846Z",
+    "cost": 0,
+    "cardClass": "Skill",
+    "skill": "Draw <span class=\"eff-value\">1</span> own Attack Card(s)<br>For <span style=\"color: #ffcc00;\">1</span> turn, +<span class=\"eff-value\">50</span>% Damage Amount",
+    "updatedAt": "2026-02-04T09:21:07.642Z",
+    "rarity": "Rare"
   },
   {
     "id": 5,
@@ -40,7 +55,12 @@
       "Hunter"
     ],
     "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/commonCards/lx80anqag3pc85n46b678k1763751748981.webp",
-    "createdAt": "2025-11-21T19:02:28.981Z"
+    "createdAt": "2025-11-21T19:02:28.981Z",
+    "cost": 2,
+    "cardClass": "Attack",
+    "skill": "<span class=\"eff-value\">400%</span> Damage<br>Defeat: <span style=\"color: #ffcc00;\">20</span> Credit",
+    "updatedAt": "2026-02-04T09:21:07.642Z",
+    "rarity": "Legendary"
   },
   {
     "id": 6,
@@ -51,7 +71,12 @@
       "Hunter"
     ],
     "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/commonCards/f2f87dljsznp6wyrxvaozc1763751834570.webp",
-    "createdAt": "2025-11-21T19:03:54.570Z"
+    "createdAt": "2025-11-21T19:03:54.570Z",
+    "cost": 0,
+    "cardClass": "Attack",
+    "skill": "<span class=\"eff-value\">80%</span> Damage<br>If Ravage, move this card from the Graveyard to hand",
+    "updatedAt": "2026-02-04T09:21:07.642Z",
+    "rarity": "Rare"
   },
   {
     "id": 7,
@@ -62,7 +87,12 @@
       "Vanguard"
     ],
     "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/commonCards/je0qzb52p84ob6uh6ikcd1763751877757.webp",
-    "createdAt": "2025-11-21T19:04:37.757Z"
+    "createdAt": "2025-11-21T19:04:37.757Z",
+    "cost": 1,
+    "cardClass": "Upgrade",
+    "skill": "<span class=\"eff-value\">2</span> Immunity",
+    "updatedAt": "2026-02-04T09:21:07.642Z",
+    "rarity": "Common"
   },
   {
     "id": 8,
@@ -73,7 +103,12 @@
       "Controller"
     ],
     "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/commonCards/po5c9zra4ade04up5ri7cg1763751936054.webp",
-    "createdAt": "2025-11-21T19:05:36.054Z"
+    "createdAt": "2025-11-21T19:05:36.054Z",
+    "cost": 2,
+    "cardClass": "Attack",
+    "skill": "<span class=\"eff-value\">230%</span> Piercing Damage to all enemies",
+    "updatedAt": "2026-02-04T09:21:07.642Z",
+    "rarity": "Rare"
   },
   {
     "id": 9,
@@ -84,7 +119,12 @@
       "Controller"
     ],
     "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/commonCards/ks8w6tcdbsbic5auffp3o1763751959662.webp",
-    "createdAt": "2025-11-21T19:05:59.662Z"
+    "createdAt": "2025-11-21T19:05:59.662Z",
+    "cost": 0,
+    "cardClass": "Skill",
+    "skill": "Choose <span class=\"eff-value\">1</span> Attack card(s) from the Draw Pile, move it to hand",
+    "updatedAt": "2026-02-04T09:21:07.642Z",
+    "rarity": "Common"
   },
   {
     "id": 10,
@@ -94,7 +134,12 @@
       "all"
     ],
     "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/commonCards/sfo2aonrc28l1tbhpwm521763753034345.webp",
-    "createdAt": "2025-11-21T19:23:54.345Z"
+    "createdAt": "2025-11-21T19:23:54.345Z",
+    "cost": 1,
+    "cardClass": "Attack",
+    "skill": "<span class=\"eff-value\">150%</span> Damage<br>Vulnerable <span class=\"eff-value\">4</span>",
+    "rarity": "Rare",
+    "updatedAt": "2025-11-28T02:42:50.308Z"
   },
   {
     "id": 11,
@@ -104,7 +149,12 @@
       "all"
     ],
     "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/commonCards/fv6sk5ep02wiw9qfjbkc1763753094394.webp",
-    "createdAt": "2025-11-21T19:24:54.394Z"
+    "createdAt": "2025-11-21T19:24:54.394Z",
+    "cost": 3,
+    "cardClass": "Attack",
+    "skill": "<span class=\"eff-value\">350%</span> Damage<br>If the target has Shield, +<span class=\"eff-value\">50</span>% Damage",
+    "rarity": "Common",
+    "updatedAt": "2025-11-28T02:43:02.568Z"
   },
   {
     "id": 12,
@@ -115,7 +165,12 @@
       "Vanguard"
     ],
     "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/commonCards/m1z1zdq9289w3233t342zi1763753144628.webp",
-    "createdAt": "2025-11-21T19:25:44.628Z"
+    "createdAt": "2025-11-21T19:25:44.628Z",
+    "cost": 0,
+    "cardClass": "Skill",
+    "skill": "If there are no Attack Cards in hand, Draw <span class=\"eff-value\">2</span>",
+    "updatedAt": "2026-02-04T09:21:07.642Z",
+    "rarity": "Legendary"
   },
   {
     "id": 13,
@@ -126,7 +181,12 @@
       "Vanguard"
     ],
     "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/commonCards/1ic0pl0ejrwtx4vxbfbvl1763753173184.webp",
-    "createdAt": "2025-11-21T19:26:13.184Z"
+    "createdAt": "2025-11-21T19:26:13.184Z",
+    "cost": 2,
+    "cardClass": "Skill",
+    "skill": "<span class=\"eff-value\">1</span> Evade<br>Draw Next Turn <span class=\"eff-value\">2</span>",
+    "updatedAt": "2026-02-04T09:21:07.642Z",
+    "rarity": "Rare"
   },
   {
     "id": 14,
@@ -136,7 +196,12 @@
       "all"
     ],
     "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/commonCards/3ghkbmh8ujgzphnh5nwpv1763753227509.webp",
-    "createdAt": "2025-11-21T19:27:07.509Z"
+    "createdAt": "2025-11-21T19:27:07.509Z",
+    "cost": 0,
+    "cardClass": "Skill",
+    "skill": "Activate the bottom <span class=\"eff-value\">1</span> card(s) of the Draw Pile<br>Choose <span class=\"eff-value\">1</span> card(s) in hand and move them to the bottom of the Draw Pile",
+    "rarity": "Common",
+    "updatedAt": "2025-11-28T02:44:51.503Z"
   },
   {
     "id": 15,
@@ -146,7 +211,12 @@
       "all"
     ],
     "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/commonCards/r16h5jbo5gtw4cln15p5u1763753240075.webp",
-    "createdAt": "2025-11-21T19:27:20.075Z"
+    "createdAt": "2025-11-21T19:27:20.075Z",
+    "cost": 0,
+    "cardClass": "Skill",
+    "skill": "Draw <span class=\"eff-value\">1</span><br>From Draw Pile or Discard Pile, move <span class=\"eff-value\">1</span> random Forbidden Card(s) into hand",
+    "updatedAt": "2026-02-04T09:21:07.642Z",
+    "rarity": "Legendary"
   },
   {
     "id": 16,
@@ -157,7 +227,12 @@
       "Hunter"
     ],
     "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/commonCards/zgrb1k1a4phpjv08xm3g81763753277876.webp",
-    "createdAt": "2025-11-21T19:27:57.876Z"
+    "createdAt": "2025-11-21T19:27:57.876Z",
+    "cost": 1,
+    "cardClass": "Attack",
+    "skill": "<span class=\"eff-value\">50%</span> Damage × <span class=\"eff-value\">3</span>",
+    "updatedAt": "2026-02-04T09:21:07.642Z",
+    "rarity": "Common"
   },
   {
     "id": 17,
@@ -168,7 +243,12 @@
       "Controller"
     ],
     "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/commonCards/4scrnw6tjerg65edozvzbp1763753306236.webp",
-    "createdAt": "2025-11-21T19:28:26.236Z"
+    "createdAt": "2025-11-21T19:28:26.236Z",
+    "cost": 1,
+    "cardClass": "Skill",
+    "skill": "Replace the Ego Skill slot with other Ego Skills",
+    "updatedAt": "2026-02-04T09:21:07.642Z",
+    "rarity": "Common"
   },
   {
     "id": 18,
@@ -178,7 +258,12 @@
       "all"
     ],
     "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/commonCards/9vwh1smzggozpm3die96yn1763753364585.webp",
-    "createdAt": "2025-11-21T19:29:24.585Z"
+    "createdAt": "2025-11-21T19:29:24.585Z",
+    "cost": 1,
+    "cardClass": "Attack",
+    "skill": "<span class=\"eff-value\">120%</span> Damage × <span class=\"eff-value\">2</span><br>Defeat: <span class=\"eff-value\">120%</span> × <span class=\"eff-value\">2</span> Damage to random enemies",
+    "rarity": "Common",
+    "updatedAt": "2025-11-28T02:51:11.355Z"
   },
   {
     "id": 19,
@@ -189,7 +274,12 @@
       "Hunter"
     ],
     "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/commonCards/lvn0jfo499ne9nyn41y2l1763753520070.webp",
-    "createdAt": "2025-11-21T19:32:00.070Z"
+    "createdAt": "2025-11-21T19:32:00.070Z",
+    "cost": 2,
+    "cardClass": "Attack",
+    "skill": "<span class=\"eff-value\">350%</span> Damage<br>At the start of the next turn, Draw <span style=\"color: #ffcc00;\">1</span>",
+    "rarity": "Rare",
+    "updatedAt": "2026-02-04T09:21:07.642Z"
   },
   {
     "id": 20,
@@ -200,7 +290,12 @@
       "Hunter"
     ],
     "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/commonCards/8xp1kzanhuv7n0f9zkpma1763753603906.webp",
-    "createdAt": "2025-11-21T19:33:23.906Z"
+    "createdAt": "2025-11-21T19:33:23.906Z",
+    "cost": 1,
+    "cardClass": "Attack",
+    "skill": "<span class=\"eff-value\">300%</span> Damage<br>Discard <span class=\"eff-value\">1</span>",
+    "rarity": "Common",
+    "updatedAt": "2026-02-04T09:21:07.642Z"
   },
   {
     "id": 21,
@@ -210,8 +305,13 @@
       "Ranger",
       "Hunter"
     ],
-    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/commonCards/i820a59nwuia9e45erk2d81763753625179.webp",
-    "createdAt": "2025-11-21T19:33:45.179Z"
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/commonCards/o1lrb078rvj5i5hj283a1768374875178.webp",
+    "createdAt": "2025-11-21T19:33:45.179Z",
+    "cost": 2,
+    "cardClass": "Upgrade",
+    "skill": "At the start of the turn, +<span style=\"color: #ffcc00;\">50</span>% Damage to <span style=\"color: #ffcc00;\">1</span> random Attack card in hand for <span style=\"color: #ffcc00;\">1</span> turn",
+    "updatedAt": "2026-02-04T09:21:07.642Z",
+    "rarity": "Common"
   },
   {
     "id": 22,
@@ -222,7 +322,12 @@
       "Vanguard"
     ],
     "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/commonCards/rc1gt4bz2hgn2av6nbh9b1763753672702.webp",
-    "createdAt": "2025-11-21T19:34:32.702Z"
+    "createdAt": "2025-11-21T19:34:32.702Z",
+    "cost": 2,
+    "cardClass": "Attack",
+    "skill": "<span class=\"eff-value\">100%</span> Defense-based Damage × <span class=\"eff-value\">2</span><br>For each Resolve, +<span style=\"color: #ffcc00;\">20</span>% Damage",
+    "rarity": "Common",
+    "updatedAt": "2026-02-04T09:21:07.642Z"
   },
   {
     "id": 23,
@@ -233,7 +338,12 @@
       "Vanguard"
     ],
     "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/commonCards/pvzhipbd84ctvfjt5k15ep1763753730115.webp",
-    "createdAt": "2025-11-21T19:35:30.115Z"
+    "createdAt": "2025-11-21T19:35:30.115Z",
+    "cost": 0,
+    "cardClass": "Skill",
+    "skill": "<span class=\"eff-value\">100%</span> Shield<br><span class=\"eff-value\">1</span> AP",
+    "rarity": "Rare",
+    "updatedAt": "2026-02-04T09:21:07.642Z"
   },
   {
     "id": 24,
@@ -244,7 +354,12 @@
       "Vanguard"
     ],
     "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/commonCards/s06ymztmcjsjhi9xr6qqj1763753747889.webp",
-    "createdAt": "2025-11-21T19:35:47.889Z"
+    "createdAt": "2025-11-21T19:35:47.889Z",
+    "cost": 1,
+    "cardClass": "Skill",
+    "skill": "<span class=\"eff-value\">150%</span> Shield<br>Combo: at the start of the next turn, <span style=\"color: #ffcc00;\">150</span>% Shield",
+    "rarity": "Common",
+    "updatedAt": "2026-02-04T09:21:07.642Z"
   },
   {
     "id": 25,
@@ -255,7 +370,12 @@
       "Vanguard"
     ],
     "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/commonCards/w11bm1u8lgmrd39pw95l1n1763753786239.webp",
-    "createdAt": "2025-11-21T19:36:26.239Z"
+    "createdAt": "2025-11-21T19:36:26.239Z",
+    "cost": 1,
+    "cardClass": "Attack",
+    "skill": "<span class=\"eff-value\">200%</span> Defense-Based Damage<br><span class=\"eff-value\">2</span> Crystallization",
+    "rarity": "Rare",
+    "updatedAt": "2026-02-04T09:21:07.642Z"
   },
   {
     "id": 26,
@@ -266,7 +386,12 @@
       "Vanguard"
     ],
     "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/commonCards/imjlhdmjkr81i08ehj1u1o1763753810640.webp",
-    "createdAt": "2025-11-21T19:36:50.640Z"
+    "createdAt": "2025-11-21T19:36:50.640Z",
+    "cost": 2,
+    "cardClass": "Attack",
+    "skill": "<span class=\"eff-value\">200%</span> Damage<br><span class=\"eff-value\">2</span> Vulnerable, <span class=\"eff-value\">2</span> Weaken",
+    "rarity": "Common",
+    "updatedAt": "2026-02-04T09:21:07.642Z"
   },
   {
     "id": 27,
@@ -277,7 +402,12 @@
       "Vanguard"
     ],
     "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/commonCards/lum315qq6ch29k6pyj7tuy1763753932546.webp",
-    "createdAt": "2025-11-21T19:38:52.546Z"
+    "createdAt": "2025-11-21T19:38:52.546Z",
+    "cost": 1,
+    "cardClass": "Upgrade",
+    "skill": "<span class=\"eff-value\">1</span> Resolve<br><span class=\"eff-value\">1</span> Fortitude",
+    "rarity": "Rare",
+    "updatedAt": "2026-02-04T09:21:07.642Z"
   },
   {
     "id": 28,
@@ -288,7 +418,12 @@
       "Vanguard"
     ],
     "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/commonCards/ssgbgw6wyjs9jphby59d5r1763754147748.webp",
-    "createdAt": "2025-11-21T19:42:27.748Z"
+    "createdAt": "2025-11-21T19:42:27.748Z",
+    "cost": 1,
+    "cardClass": "Skill",
+    "skill": "<span class=\"eff-value\">130%</span> Shield<br>If there is no Shield, increase Shield by <span class=\"eff-value\">100</span>%",
+    "rarity": "Common",
+    "updatedAt": "2026-02-04T09:21:07.642Z"
   },
   {
     "id": 29,
@@ -299,7 +434,12 @@
       "Vanguard"
     ],
     "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/commonCards/hcz8jfvwhw9a8o4l03wwz91763754250942.webp",
-    "createdAt": "2025-11-21T19:44:10.942Z"
+    "createdAt": "2025-11-21T19:44:10.942Z",
+    "cost": 2,
+    "cardClass": "Attack",
+    "skill": "<span class=\"eff-value\">150%</span> Damage × <span class=\"eff-value\">2</span><br>Draw <span class=\"eff-value\">1</span>",
+    "updatedAt": "2026-02-04T09:21:07.642Z",
+    "rarity": "Legendary"
   },
   {
     "id": 30,
@@ -310,7 +450,12 @@
       "Vanguard"
     ],
     "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/commonCards/tw8ajc35b8du542sr6mfco1763754286882.webp",
-    "createdAt": "2025-11-21T19:44:46.882Z"
+    "createdAt": "2025-11-21T19:44:46.882Z",
+    "cost": 2,
+    "cardClass": "Attack",
+    "skill": "<span class=\"eff-value\">300%</span> Damage<br>If there are no cards of other Combatants in hand, decrease Cost by <span style=\"color: #ffcc00;\">2</span>",
+    "rarity": "Common",
+    "updatedAt": "2026-02-04T09:21:07.642Z"
   },
   {
     "id": 31,
@@ -321,7 +466,12 @@
       "Vanguard"
     ],
     "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/commonCards/u4qmk6q8k2rncxwk3gf8381763754326969.webp",
-    "createdAt": "2025-11-21T19:45:26.969Z"
+    "createdAt": "2025-11-21T19:45:26.969Z",
+    "cost": 1,
+    "cardClass": "Attack",
+    "skill": "<span class=\"eff-value\">200%</span> Damage<br><span style=\"color: #ffcc00;\">2</span> Tenacity Damage",
+    "rarity": "Rare",
+    "updatedAt": "2026-02-04T09:21:07.642Z"
   },
   {
     "id": 32,
@@ -332,7 +482,12 @@
       "Hunter"
     ],
     "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/commonCards/ewx9noinphb1w0phx8eq1763754346025.webp",
-    "createdAt": "2025-11-21T19:45:46.025Z"
+    "createdAt": "2025-11-21T19:45:46.025Z",
+    "cost": 2,
+    "cardClass": "Attack",
+    "skill": "<span class=\"eff-value\">200%</span> Damage to all enemies<br><span class=\"eff-value\">2</span> Vulnerable",
+    "rarity": "Common",
+    "updatedAt": "2026-02-04T09:21:07.642Z"
   },
   {
     "id": 33,
@@ -343,7 +498,12 @@
       "Vanguard"
     ],
     "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/commonCards/1ld8w690itbc4e6hlmlop1763754400334.webp",
-    "createdAt": "2025-11-21T19:46:40.334Z"
+    "createdAt": "2025-11-21T19:46:40.334Z",
+    "cost": 1,
+    "cardClass": "Attack",
+    "skill": "<span class=\"eff-value\">100%</span> Defense-based Damage to all enemies<br>Destroy: Add <span class=\"eff-value\">1</span> Hit(s)",
+    "updatedAt": "2026-02-04T09:21:07.642Z",
+    "rarity": "Common"
   },
   {
     "id": 34,
@@ -354,7 +514,12 @@
       "Vanguard"
     ],
     "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/commonCards/h4d0dnwkvo212m1jjxfg91763754424924.webp",
-    "createdAt": "2025-11-21T19:47:04.924Z"
+    "createdAt": "2025-11-21T19:47:04.924Z",
+    "cost": 3,
+    "cardClass": "Attack",
+    "skill": "<span class=\"eff-value\">400%</span> Defense-Based Damage<br>If HP is full, decrease Cost of this card by <span class=\"eff-value\">1</span>",
+    "rarity": "Common",
+    "updatedAt": "2026-02-04T09:21:07.642Z"
   },
   {
     "id": 35,
@@ -365,7 +530,12 @@
       "Vanguard"
     ],
     "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/commonCards/z0vf5xv72ui5f4y0p7fok1763754474617.webp",
-    "createdAt": "2025-11-21T19:47:54.617Z"
+    "createdAt": "2025-11-21T19:47:54.617Z",
+    "cost": 0,
+    "cardClass": "Attack",
+    "skill": "<span class=\"eff-value\">100%</span> Damage × <span class=\"eff-value\">3</span> to all enemies<br>Create <span class=\"eff-value\">2</span> <span style=\"color: #ffcc00;\"><u>Overload</u></span> card(s) in the Draw Pile",
+    "rarity": "Common",
+    "updatedAt": "2026-02-04T09:21:07.642Z"
   },
   {
     "id": 36,
@@ -376,7 +546,12 @@
       "Hunter"
     ],
     "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/commonCards/6lo4aodvk3a4fco2f20ibi1763754578865.webp",
-    "createdAt": "2025-11-21T19:49:38.865Z"
+    "createdAt": "2025-11-21T19:49:38.865Z",
+    "cost": 0,
+    "cardClass": "Attack",
+    "skill": "<span class=\"eff-value\">100%</span> Damage<br>Retain: +<span class=\"eff-value\">50</span>% Damage",
+    "rarity": "Common",
+    "updatedAt": "2026-02-04T09:21:07.642Z"
   },
   {
     "id": 37,
@@ -387,7 +562,12 @@
       "Hunter"
     ],
     "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/commonCards/kcmetk7shcl7e9hwqaz11763754608902.webp",
-    "createdAt": "2025-11-21T19:50:08.902Z"
+    "createdAt": "2025-11-21T19:50:08.902Z",
+    "cost": 1,
+    "cardClass": "Attack",
+    "skill": "<span class=\"eff-value\">200%</span> Damage<br>Inspiration: Decrease Cost by <span style=\"color: #ffcc00;\">1</span>, Draw <span class=\"eff-value\">1</span>",
+    "rarity": "Common",
+    "updatedAt": "2026-02-04T09:21:07.642Z"
   },
   {
     "id": 38,
@@ -398,7 +578,12 @@
       "Hunter"
     ],
     "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/commonCards/5eos08az6xgh9m5e0a7ld1763754635499.webp",
-    "createdAt": "2025-11-21T19:50:35.499Z"
+    "createdAt": "2025-11-21T19:50:35.499Z",
+    "cost": 0,
+    "cardClass": "Attack",
+    "skill": "<span class=\"eff-value\">200%</span> Damage to all enemies",
+    "rarity": "Rare",
+    "updatedAt": "2026-02-04T09:21:07.642Z"
   },
   {
     "id": 39,
@@ -409,7 +594,12 @@
       "Hunter"
     ],
     "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/commonCards/g47vjr53fmo9f0tz228q1763754650129.webp",
-    "createdAt": "2025-11-21T19:50:50.129Z"
+    "createdAt": "2025-11-21T19:50:50.129Z",
+    "cost": 0,
+    "cardClass": "Attack",
+    "skill": "<span class=\"eff-value\">120%</span> Damage<br>Draw <span class=\"eff-value\">1</span><br>Select <span class=\"eff-value\">1</span> card(s) from hand, move them on top of the Draw Pile",
+    "rarity": "Legendary",
+    "updatedAt": "2026-02-04T09:21:07.642Z"
   },
   {
     "id": 40,
@@ -420,7 +610,12 @@
       "Hunter"
     ],
     "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/commonCards/2tzlmyzel2yjajx34ry41763754661241.webp",
-    "createdAt": "2025-11-21T19:51:01.241Z"
+    "createdAt": "2025-11-21T19:51:01.241Z",
+    "cost": 0,
+    "cardClass": "Attack",
+    "skill": "<span class=\"eff-value\">150%</span> Damage<br>Mark <span class=\"eff-value\">1</span>",
+    "rarity": "Common",
+    "updatedAt": "2026-02-04T09:21:07.642Z"
   },
   {
     "id": 41,
@@ -431,7 +626,12 @@
       "Hunter"
     ],
     "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/commonCards/xqi1k6nuutaof56mmtwpfs1763754742197.webp",
-    "createdAt": "2025-11-21T19:52:22.197Z"
+    "createdAt": "2025-11-21T19:52:22.197Z",
+    "cost": 1,
+    "cardClass": "Attack",
+    "skill": "<span class=\"eff-value\">200%</span> Damage<br>Weakness Attack: +<span style=\"color: #ffcc00;\">50</span>% Damage",
+    "rarity": "Common",
+    "updatedAt": "2026-02-04T09:21:07.642Z"
   },
   {
     "id": 42,
@@ -442,7 +642,12 @@
       "Hunter"
     ],
     "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/commonCards/4bxbsk8jkl4kb8caf9bjfs1763754884308.webp",
-    "createdAt": "2025-11-21T19:54:44.308Z"
+    "createdAt": "2025-11-21T19:54:44.308Z",
+    "cost": 1,
+    "cardClass": "Upgrade",
+    "skill": "Increase Damage Amount by <span style=\"color: #ffcc00;\">25</span>% to targets granted Shield (max <span style=\"color: #ffcc00;\">1</span> stack)",
+    "rarity": "Rare",
+    "updatedAt": "2026-02-04T09:21:07.642Z"
   },
   {
     "id": 43,
@@ -453,7 +658,12 @@
       "Controller"
     ],
     "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/commonCards/a3vmukkg5e9depbdlcly1763754922713.webp",
-    "createdAt": "2025-11-21T19:55:22.713Z"
+    "createdAt": "2025-11-21T19:55:22.713Z",
+    "cost": 1,
+    "cardClass": "Skill",
+    "skill": "Draw <span class=\"eff-value\">1</span><br>Activate drawn card",
+    "rarity": "Rare",
+    "updatedAt": "2026-02-04T09:21:07.642Z"
   },
   {
     "id": 44,
@@ -464,7 +674,12 @@
       "Controller"
     ],
     "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/commonCards/f86kdj376arznevrm0nlr1763754989629.webp",
-    "createdAt": "2025-11-21T19:56:29.629Z"
+    "createdAt": "2025-11-21T19:56:29.629Z",
+    "cost": 1,
+    "cardClass": "Skill",
+    "skill": "Decrease Cost of the next Ego Skill used by <span style=\"color: #ffcc00;\">1</span>",
+    "rarity": "Common",
+    "updatedAt": "2026-02-04T09:21:07.642Z"
   },
   {
     "id": 45,
@@ -475,7 +690,12 @@
       "Controller"
     ],
     "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/commonCards/5kv9cv8yfmj693trhi1y1763755005745.webp",
-    "createdAt": "2025-11-21T19:56:45.745Z"
+    "createdAt": "2025-11-21T19:56:45.745Z",
+    "cost": 1,
+    "cardClass": "Skill",
+    "skill": "<span class=\"eff-value\">2</span> Agony to all enemies<br>Select and Exhaust up to <span class=\"eff-value\">2</span> Status Ailment or Curse card(s) from hand",
+    "rarity": "Common",
+    "updatedAt": "2026-02-04T09:21:07.642Z"
   },
   {
     "id": 46,
@@ -486,7 +706,12 @@
       "Controller"
     ],
     "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/commonCards/6019hlidx88u3ghpnolh21763755019258.webp",
-    "createdAt": "2025-11-21T19:56:59.258Z"
+    "createdAt": "2025-11-21T19:56:59.258Z",
+    "cost": 1,
+    "cardClass": "Skill",
+    "skill": "Decrease Morale by <span class=\"eff-value\">1</span><br>Decrease Resolve by <span class=\"eff-value\">1</span>",
+    "rarity": "Common",
+    "updatedAt": "2026-02-04T09:21:07.642Z"
   },
   {
     "id": 47,
@@ -497,7 +722,12 @@
       "Controller"
     ],
     "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/commonCards/dp9ei6yb3yv6kp78x8vuj1763755069965.webp",
-    "createdAt": "2025-11-21T19:57:49.965Z"
+    "createdAt": "2025-11-21T19:57:49.965Z",
+    "cost": 0,
+    "cardClass": "Skill",
+    "skill": "For <span style=\"color: #ffcc00;\">1</span> turn, target’s Action Count does not decrease",
+    "rarity": "Rare",
+    "updatedAt": "2026-02-04T09:21:07.642Z"
   },
   {
     "id": 48,
@@ -508,7 +738,12 @@
       "Controller"
     ],
     "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/commonCards/kke8oyyw0a4q2i2xuqt2b1763755088442.webp",
-    "createdAt": "2025-11-21T19:58:08.442Z"
+    "createdAt": "2025-11-21T19:58:08.442Z",
+    "cost": 1,
+    "cardClass": "Skill",
+    "skill": "Draw <span class=\"eff-value\">3</span>",
+    "rarity": "Legendary",
+    "updatedAt": "2026-02-04T09:21:07.642Z"
   },
   {
     "id": 49,
@@ -519,7 +754,12 @@
       "Controller"
     ],
     "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/commonCards/iucum68xjqg7iqx0dive1763755128006.webp",
-    "createdAt": "2025-11-21T19:58:48.006Z"
+    "createdAt": "2025-11-21T19:58:48.006Z",
+    "cost": 1,
+    "cardClass": "Upgrade",
+    "skill": "Upon card creation, grant random Epiphany (<span style=\"color: #ffcc00;\">1</span> per turn)",
+    "rarity": "Common",
+    "updatedAt": "2026-02-04T09:21:07.642Z"
   },
   {
     "id": 50,
@@ -530,7 +770,12 @@
       "Controller"
     ],
     "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/commonCards/2vazdq191h9l5ho2xat3f1763755161996.webp",
-    "createdAt": "2025-11-21T19:59:21.996Z"
+    "createdAt": "2025-11-21T19:59:21.996Z",
+    "cost": 1,
+    "cardClass": "Skill",
+    "skill": "Draw <span class=\"eff-value\">2</span>",
+    "rarity": "Legendary",
+    "updatedAt": "2026-02-04T09:21:07.642Z"
   },
   {
     "id": 51,
@@ -541,7 +786,12 @@
       "Controller"
     ],
     "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/commonCards/xux983uhknhoajc3datgia1763755178542.webp",
-    "createdAt": "2025-11-21T19:59:38.542Z"
+    "createdAt": "2025-11-21T19:59:38.542Z",
+    "cost": 1,
+    "cardClass": "Skill",
+    "skill": "<span class=\"eff-value\">2</span> Ego Points",
+    "rarity": "Rare",
+    "updatedAt": "2026-02-04T09:21:07.642Z"
   },
   {
     "id": 52,
@@ -552,7 +802,12 @@
       "Controller"
     ],
     "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/commonCards/7kabahqnt8r8zei99o555e1763755274025.webp",
-    "createdAt": "2025-11-21T20:01:14.025Z"
+    "createdAt": "2025-11-21T20:01:14.025Z",
+    "cost": 0,
+    "cardClass": "Skill",
+    "skill": "Draw <span class=\"eff-value\">1</span><br>Increase Action Count of all enemies by <span class=\"eff-value\">3</span>",
+    "rarity": "Common",
+    "updatedAt": "2026-02-04T09:21:07.642Z"
   },
   {
     "id": 53,
@@ -563,7 +818,12 @@
       "Controller"
     ],
     "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/commonCards/m6dnxkkxvqhiml6hef5ru1763755619361.webp",
-    "createdAt": "2025-11-21T20:06:59.361Z"
+    "createdAt": "2025-11-21T20:06:59.361Z",
+    "cost": 3,
+    "cardClass": "Upgrade",
+    "skill": "At the start of the turn, each ally takes Fixed Damage equal to <span class=\"eff-value\">10</span>% of their max HP <br><span class=\"eff-value\">1</span> AP",
+    "rarity": "Common",
+    "updatedAt": "2026-02-04T09:21:07.642Z"
   },
   {
     "id": 54,
@@ -574,7 +834,12 @@
       "Controller"
     ],
     "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/commonCards/mv4q8wn52wlaos9d5da8xd1763756062903.webp",
-    "createdAt": "2025-11-21T20:14:22.903Z"
+    "createdAt": "2025-11-21T20:14:22.903Z",
+    "cost": 0,
+    "cardClass": "Skill",
+    "skill": "When Ego Points are <span style=\"color: #ffcc00;\">2</span> or more, gain <span class=\"eff-value\">1</span> AP, decrease Ego Points by <span class=\"eff-value\">2</span>",
+    "rarity": "Rare",
+    "updatedAt": "2026-02-04T09:21:07.642Z"
   },
   {
     "id": 55,
@@ -585,7 +850,12 @@
       "Controller"
     ],
     "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/commonCards/i9lhbc23bci93cx0q013gp1763756076866.webp",
-    "createdAt": "2025-11-21T20:14:36.866Z"
+    "createdAt": "2025-11-21T20:14:36.866Z",
+    "cost": 2,
+    "cardClass": "Skill",
+    "skill": "Heal <span class=\"eff-value\">250%</span>",
+    "rarity": "Common",
+    "updatedAt": "2026-02-04T09:21:07.642Z"
   },
   {
     "id": 56,
@@ -595,7 +865,11 @@
       "all"
     ],
     "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/commonCards/nlh86qbu483kz8qb1gbzu1763756279919.webp",
-    "createdAt": "2025-11-21T20:17:59.919Z"
+    "createdAt": "2025-11-21T20:17:59.919Z",
+    "rarity": "Legendary",
+    "cost": 2,
+    "cardClass": "Upgrade",
+    "skill": "At the start of the turn, <span style=\"color: #ffcc00;\">1</span> Morale"
   },
   {
     "id": 57,
@@ -605,7 +879,11 @@
       "all"
     ],
     "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/commonCards/4hkvifhik2sispm9rdps81763756301677.webp",
-    "createdAt": "2025-11-21T20:18:21.677Z"
+    "createdAt": "2025-11-21T20:18:21.677Z",
+    "rarity": "Rare",
+    "cost": 1,
+    "cardClass": "Skill",
+    "skill": "<span class=\"eff-value\">2</span> Resolve<br>Shield equal to the amount of lost HP"
   },
   {
     "id": 58,
@@ -615,7 +893,11 @@
       "all"
     ],
     "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/commonCards/9v3y1nkurnc5c0c8ud7jv1763756433613.webp",
-    "createdAt": "2025-11-21T20:20:33.613Z"
+    "createdAt": "2025-11-21T20:20:33.613Z",
+    "rarity": "Legendary",
+    "cost": 1,
+    "cardClass": "Upgrade",
+    "skill": "When using a Targeting Attack Card, inflict <span style=\"color: #ffcc00;\">1</span> Agony"
   },
   {
     "id": 59,
@@ -625,7 +907,12 @@
       "all"
     ],
     "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/commonCards/li4jk3qxa8mqgn6i9sqet1763756454838.webp",
-    "createdAt": "2025-11-21T20:20:54.838Z"
+    "createdAt": "2025-11-21T20:20:54.838Z",
+    "cost": 3,
+    "cardClass": "Skill",
+    "skill": "Create <span class=\"eff-value\">1</span> random Forbidden Card(s) in hand",
+    "rarity": "Legendary",
+    "updatedAt": "2026-02-04T09:21:07.642Z"
   },
   {
     "id": 60,
@@ -635,7 +922,12 @@
       "all"
     ],
     "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/commonCards/xj8km1xyw4ai2q5clgklp1763756475162.webp",
-    "createdAt": "2025-11-21T20:21:15.162Z"
+    "createdAt": "2025-11-21T20:21:15.162Z",
+    "cost": 1,
+    "cardClass": "Skill",
+    "skill": "Draw <span class=\"eff-value\">1</span>, Draw for each Cost of that card",
+    "rarity": "Legendary",
+    "updatedAt": "2026-02-04T09:21:07.642Z"
   },
   {
     "id": 61,
@@ -645,7 +937,12 @@
       "all"
     ],
     "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/commonCards/g3j5xvshesmg7wclosy081763756484097.webp",
-    "createdAt": "2025-11-21T20:21:24.097Z"
+    "createdAt": "2025-11-21T20:21:24.097Z",
+    "cost": 9,
+    "cardClass": "Attack",
+    "skill": "<span class=\"eff-value\">150%</span> Damage × <span class=\"eff-value\">4</span><br>When Drawing by an ability, decrease Cost of this card by <span style=\"color: #ffcc00;\">1</span>",
+    "rarity": "Legendary",
+    "updatedAt": "2026-02-04T09:21:07.642Z"
   },
   {
     "id": 62,
@@ -655,7 +952,12 @@
       "all"
     ],
     "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/commonCards/v8a8devt89h5p5bz42fhza1763756510451.webp",
-    "createdAt": "2025-11-21T20:21:50.451Z"
+    "createdAt": "2025-11-21T20:21:50.451Z",
+    "cost": 2,
+    "cardClass": "Skill",
+    "skill": "Draw <span class=\"eff-value\">1</span><br>Activate <span class=\"eff-value\">2</span> random card(s) in hand",
+    "rarity": "Legendary",
+    "updatedAt": "2026-02-04T09:21:07.642Z"
   },
   {
     "id": 63,
@@ -665,7 +967,12 @@
       "all"
     ],
     "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/commonCards/vxvxn0ttgwcpvokcumevz1763756524166.webp",
-    "createdAt": "2025-11-21T20:22:04.166Z"
+    "createdAt": "2025-11-21T20:22:04.166Z",
+    "cost": 0,
+    "cardClass": "Skill",
+    "skill": "Attunement: Draw <span style=\"color: #ffcc00;\">1</span>, +<span style=\"color: #ffcc00;\">1</span> AP",
+    "rarity": "Legendary",
+    "updatedAt": "2026-02-04T09:21:07.642Z"
   },
   {
     "id": 64,
@@ -675,7 +982,12 @@
       "all"
     ],
     "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/commonCards/gozbb1a9g5ozkvrqqmhdl1763756536601.webp",
-    "createdAt": "2025-11-21T20:22:16.601Z"
+    "createdAt": "2025-11-21T20:22:16.601Z",
+    "cost": 0,
+    "cardClass": "Skill",
+    "skill": "Decrease Cost of <span style=\"color: #ffcc00;\">1</span> random card in hand by <span style=\"color: #ffcc00;\">1</span>",
+    "rarity": "Legendary",
+    "updatedAt": "2026-02-04T09:21:07.642Z"
   },
   {
     "id": 65,
@@ -685,7 +997,12 @@
       "all"
     ],
     "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/commonCards/mws41d7ne7biu5yv4il5dn1763757228022.webp",
-    "createdAt": "2025-11-21T20:33:48.022Z"
+    "createdAt": "2025-11-21T20:33:48.022Z",
+    "cost": 1,
+    "cardClass": "Upgrade",
+    "skill": "When Drawing by an ability, Heal <span class=\"eff-value\">40</span>%, decrease Stress of a random Combatant by <span class=\"eff-value\">1</span>",
+    "rarity": "Legendary",
+    "updatedAt": "2026-02-04T09:21:07.642Z"
   },
   {
     "id": 66,
@@ -695,7 +1012,12 @@
       "all"
     ],
     "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/commonCards/atni91g9n9tja39tlx5ao1763757236521.webp",
-    "createdAt": "2025-11-21T20:33:56.521Z"
+    "createdAt": "2025-11-21T20:33:56.521Z",
+    "cost": 1,
+    "cardClass": "Attack",
+    "skill": "<span class=\"eff-value\">70%</span> Damage × <span class=\"eff-value\">1</span><br>For every <span style=\"color: #ffcc00;\">4</span> cards in hand, +<span style=\"color: #ffcc00;\">1</span> Hit<br>Draw <span class=\"eff-value\">1</span> for each Hit",
+    "rarity": "Legendary",
+    "updatedAt": "2026-02-04T09:21:07.642Z"
   },
   {
     "id": 67,
@@ -706,7 +1028,12 @@
       "Controller"
     ],
     "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/commonCards/m263q9wa6fmjsy63ox90nc1763757253064.webp",
-    "createdAt": "2025-11-21T20:34:13.064Z"
+    "createdAt": "2025-11-21T20:34:13.064Z",
+    "cost": 2,
+    "cardClass": "Upgrade",
+    "skill": "Upon using <span style=\"color: #ffcc00;\">4</span> cards, Draw <span class=\"eff-value\">1</span> (<span style=\"color: #ffcc00;\">1</span> time for each turn)",
+    "rarity": "Rare",
+    "updatedAt": "2026-02-04T09:21:07.642Z"
   },
   {
     "id": 68,
@@ -716,7 +1043,11 @@
       "all"
     ],
     "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/commonCards/tqzem29qfvsfsy4on0xvmc1763757590144.webp",
-    "createdAt": "2025-11-21T20:39:50.144Z"
+    "createdAt": "2025-11-21T20:39:50.144Z",
+    "rarity": "Rare",
+    "cost": 1,
+    "cardClass": "Upgrade",
+    "skill": "At the end of the turn, 200% Damage to a random enemy"
   },
   {
     "id": 69,
@@ -726,7 +1057,11 @@
       "all"
     ],
     "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/commonCards/wr4at71xbg938xpfvvz57w1763757668316.webp",
-    "createdAt": "2025-11-21T20:41:08.316Z"
+    "createdAt": "2025-11-21T20:41:08.316Z",
+    "cost": 2,
+    "cardClass": "Attack",
+    "skill": "100% x 4 Damage to random enemies<br> To targets hit, 1 Vulnerable or 1 Weaken",
+    "updatedAt": "2026-01-27T06:29:49.191Z"
   },
   {
     "id": 70,
@@ -736,7 +1071,11 @@
       "all"
     ],
     "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/commonCards/4mb49tfv10lqodqq452lc1763757685706.webp",
-    "createdAt": "2025-11-21T20:41:25.706Z"
+    "createdAt": "2025-11-21T20:41:25.706Z",
+    "rarity": "Rare",
+    "cost": 1,
+    "cardClass": "Skill",
+    "skill": "Draw <span class=\"eff-value\">1</span><br>If there are no cards in hand, Draw <span style=\"color: #ffcc00;\">4</span> additionally"
   },
   {
     "id": 71,
@@ -746,7 +1085,11 @@
       "all"
     ],
     "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/commonCards/z5c89f0e3rny63bsxr1bbm1763757703688.webp",
-    "createdAt": "2025-11-21T20:41:43.688Z"
+    "createdAt": "2025-11-21T20:41:43.688Z",
+    "rarity": "Rare",
+    "cost": 0,
+    "cardClass": "Skill",
+    "skill": "<span class=\"eff-value\">2</span> Morale Leech"
   },
   {
     "id": 72,
@@ -756,17 +1099,11 @@
       "all"
     ],
     "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/commonCards/jty7pfcdspgdjuz1ktvgb1763758101290.webp",
-    "createdAt": "2025-11-21T20:48:21.290Z"
-  },
-  {
-    "id": 73,
-    "name": "Infection",
-    "type": "neutral",
-    "classes": [
-      "all"
-    ],
-    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/commonCards/u4qntzmgmyodancg97jhcp1763758151284.webp",
-    "createdAt": "2025-11-21T20:49:11.284Z"
+    "createdAt": "2025-11-21T20:48:21.290Z",
+    "cost": 1,
+    "cardClass": "Skill",
+    "skill": "[Exhaust] <br> At the start of next turn, Heal 300% <br>1 Vulnerable to self",
+    "updatedAt": "2026-01-27T06:30:20.726Z"
   },
   {
     "id": 74,
@@ -777,7 +1114,12 @@
       "Hunter"
     ],
     "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/commonCards/mwjk3a7agh8xnpm7hp3lgd1763758251748.webp",
-    "createdAt": "2025-11-21T20:50:51.748Z"
+    "createdAt": "2025-11-21T20:50:51.748Z",
+    "cost": 1,
+    "cardClass": "Attack",
+    "skill": "<span class=\"eff-value\">80%</span> Damage x <span class=\"eff-value\">2</span><br>Inspiration: Add <span style=\"color: #ffcc00;\">2</span> Hits",
+    "rarity": "Rare",
+    "updatedAt": "2026-02-04T09:21:07.642Z"
   },
   {
     "id": 75,
@@ -788,7 +1130,12 @@
       "Hunter"
     ],
     "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/commonCards/8o7gne9t5waca7qi38i0lp1763758329150.webp",
-    "createdAt": "2025-11-21T20:52:09.150Z"
+    "createdAt": "2025-11-21T20:52:09.150Z",
+    "cost": 1,
+    "cardClass": "Skill",
+    "skill": "<span class=\"eff-value\">2</span> Morale<br><span class=\"eff-value\">2</span> Morale to all enemies",
+    "rarity": "Common",
+    "updatedAt": "2026-02-04T09:21:07.642Z"
   },
   {
     "id": 76,
@@ -798,7 +1145,12 @@
       "all"
     ],
     "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/commonCards/ogay4cuqx3nqcrwdcjs971763758377012.webp",
-    "createdAt": "2025-11-21T20:52:57.012Z"
+    "createdAt": "2025-11-21T20:52:57.012Z",
+    "cost": 1,
+    "cardClass": "Skill",
+    "skill": "Create <span class=\"eff-value\">1</span> random Dellang Shop Card(s)<br>For <span style=\"color: #ffcc00;\">1</span> turn, change that card’s cost to <span style=\"color: #ffcc00;\">0</span>",
+    "rarity": "Legendary",
+    "updatedAt": "2026-02-04T09:21:07.642Z"
   },
   {
     "id": 77,
@@ -809,7 +1161,12 @@
       "Hunter"
     ],
     "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/commonCards/18odbe4dub4nsaj2o86p6s1763758608895.webp",
-    "createdAt": "2025-11-21T20:56:48.895Z"
+    "createdAt": "2025-11-21T20:56:48.895Z",
+    "cost": 2,
+    "cardClass": "Attack",
+    "skill": "<span class=\"eff-value\">120%</span> Damage x <span style=\"color: #ffcc00;\">2</span><br>Attunement: +<span style=\"color: #ffcc00;\">1</span> Hit (max <span style=\"color: #ffcc00;\">5</span> stacks)",
+    "rarity": "Rare",
+    "updatedAt": "2026-02-04T09:21:07.642Z"
   },
   {
     "id": 78,
@@ -820,7 +1177,12 @@
       "Vanguard"
     ],
     "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/commonCards/z5uadyzojt8ayuow8td9r1763759223391.webp",
-    "createdAt": "2025-11-21T21:07:03.391Z"
+    "createdAt": "2025-11-21T21:07:03.391Z",
+    "cost": 2,
+    "cardClass": "Skill",
+    "skill": "<span class=\"eff-value\">350%</span> Shield",
+    "rarity": "Common",
+    "updatedAt": "2026-02-04T09:21:07.642Z"
   },
   {
     "id": 79,
@@ -830,8 +1192,13 @@
       "Ranger",
       "Hunter"
     ],
-    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/commonCards/0rg9haodao9kucdxkalikl1763759238863.webp",
-    "createdAt": "2025-11-21T21:07:18.863Z"
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/commonCards/0wb36y6hp3ibwb83tb45gq1764937482362.webp",
+    "createdAt": "2025-11-21T21:07:18.863Z",
+    "cost": 0,
+    "cardClass": "Attack",
+    "skill": "<span class=\"eff-value\">80%</span> Damage<br>Draw <span class=\"eff-value\">1</span>",
+    "updatedAt": "2026-02-04T09:21:07.642Z",
+    "rarity": "Rare"
   },
   {
     "id": 80,
@@ -841,7 +1208,11 @@
       "all"
     ],
     "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/commonCards/8ft70vtnacjjlujdwe7kbq1763759261604.webp",
-    "createdAt": "2025-11-21T21:07:41.604Z"
+    "createdAt": "2025-11-21T21:07:41.604Z",
+    "rarity": "Common",
+    "cost": 1,
+    "cardClass": "Attack",
+    "skill": "<span class=\"eff-value\">160%</span> Damage<br>Increase Action Count by <span class=\"eff-value\">1</span>"
   },
   {
     "id": 81,
@@ -851,7 +1222,12 @@
       "all"
     ],
     "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/commonCards/5a26bxmoll7k9p3s829gi1763759277483.webp",
-    "createdAt": "2025-11-21T21:07:57.483Z"
+    "createdAt": "2025-11-21T21:07:57.483Z",
+    "cost": 1,
+    "cardClass": "Skill",
+    "skill": "<span class=\"eff-value\">1</span> Vulnerable to all enemies<br>Decrease Cost of <span class=\"eff-value\">1</span> random Attack Cards in hand by <span style=\"color: #ffcc00;\">1</span> for <span style=\"color: #ffcc00;\">1</span> turn",
+    "updatedAt": "2026-02-04T09:21:07.642Z",
+    "rarity": "Common"
   },
   {
     "id": 82,
@@ -862,7 +1238,12 @@
       "Controller"
     ],
     "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/commonCards/t4k42yywahsh0ebq8guc1763759292951.webp",
-    "createdAt": "2025-11-21T21:08:12.951Z"
+    "createdAt": "2025-11-21T21:08:12.951Z",
+    "cost": 2,
+    "cardClass": "Upgrade",
+    "skill": "If <span style=\"color: #ffcc00;\">6</span> or more cards are in hand, the cost of <span style=\"color: #ffcc00;\">1</span> random card in hand changes to <span style=\"color: #ffcc00;\">0</span> for <span style=\"color: #ffcc00;\">1</span> turn<br>(<span style=\"color: #ffcc00;\">1</span> time per turn)",
+    "rarity": "Rare",
+    "updatedAt": "2026-02-04T09:21:07.642Z"
   },
   {
     "id": 83,
@@ -873,17 +1254,27 @@
       "Vanguard"
     ],
     "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/commonCards/wicyxbmtgdmdc3po55daqv1763759304490.webp",
-    "createdAt": "2025-11-21T21:08:24.490Z"
+    "createdAt": "2025-11-21T21:08:24.490Z",
+    "cost": 0,
+    "cardClass": "Skill",
+    "skill": "<span class=\"eff-value\">70%</span> Shield<br>For each card in hand, +<span class=\"eff-value\">25</span>% Shield",
+    "rarity": "Rare",
+    "updatedAt": "2026-02-04T09:21:07.642Z"
   },
   {
     "id": 84,
     "name": "Seven Arms",
-    "type": "neutral",
+    "type": "monster",
     "classes": [
       "all"
     ],
     "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/commonCards/4rouhe9ci0lx8t84n3zyrn1763759319425.webp",
-    "createdAt": "2025-11-21T21:08:39.425Z"
+    "createdAt": "2025-11-21T21:08:39.425Z",
+    "rarity": "Legendary",
+    "updatedAt": "2025-11-27T14:12:51.559Z",
+    "cost": 1,
+    "cardClass": "Attack",
+    "skill": "<span class=\"eff-value\">120%</span> Damage<br>If target’s Action Count is <span style=\"color: #ffcc00;\">5</span> or more, <span class=\"eff-value\">2</span> AP"
   },
   {
     "id": 85,
@@ -893,7 +1284,12 @@
       "all"
     ],
     "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/commonCards/u83q4smw19juis1ozwaao1763759397350.webp",
-    "createdAt": "2025-11-21T21:09:57.350Z"
+    "createdAt": "2025-11-21T21:09:57.350Z",
+    "cost": 1,
+    "cardClass": "Skill",
+    "skill": "Decrease Stress of a random Combatant by <span class=\"eff-value\">5</span>",
+    "rarity": "Rare",
+    "updatedAt": "2026-02-04T09:21:07.642Z"
   },
   {
     "id": 86,
@@ -903,7 +1299,11 @@
       "all"
     ],
     "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/commonCards/8759v69hsex5gbjis5mqlt1763759413051.webp",
-    "createdAt": "2025-11-21T21:10:13.051Z"
+    "createdAt": "2025-11-21T21:10:13.051Z",
+    "rarity": "Common",
+    "cost": 1,
+    "cardClass": "Attack",
+    "skill": "<span class=\"eff-value\">50%</span> Damage × <span class=\"eff-value\">4</span><br><span class=\"eff-value\">3</span> Mark"
   },
   {
     "id": 87,
@@ -913,7 +1313,11 @@
       "all"
     ],
     "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/commonCards/ya6lmlldczbpkapsvcuqc1763759441089.webp",
-    "createdAt": "2025-11-21T21:10:41.089Z"
+    "createdAt": "2025-11-21T21:10:41.089Z",
+    "rarity": "Common",
+    "cost": 1,
+    "cardClass": "Attack",
+    "skill": "<span class=\"eff-value\">50%</span> Damage × <span class=\"eff-value\">4</span><br><span class=\"eff-value\">6</span> Agony"
   },
   {
     "id": 88,
@@ -923,7 +1327,11 @@
       "all"
     ],
     "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/commonCards/lyueg3nxn0ls1s5msz1n6q1763759465409.webp",
-    "createdAt": "2025-11-21T21:11:05.409Z"
+    "createdAt": "2025-11-21T21:11:05.409Z",
+    "rarity": "Rare",
+    "cost": 1,
+    "cardClass": "Skill",
+    "skill": "Select and Draw <span class=\"eff-value\">1</span> card(s) from Draw Pile, then apply Retrieve to those cards"
   },
   {
     "id": 89,
@@ -933,7 +1341,11 @@
       "all"
     ],
     "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/commonCards/odk65alt03dwkj3roo54s1763759506113.webp",
-    "createdAt": "2025-11-21T21:11:46.113Z"
+    "createdAt": "2025-11-21T21:11:46.113Z",
+    "rarity": "Common",
+    "cost": 1,
+    "cardClass": "Attack",
+    "skill": "<span class=\"eff-value\">50%</span> Damage × <span class=\"eff-value\">5</span> to random enemies"
   },
   {
     "id": 90,
@@ -943,7 +1355,11 @@
       "all"
     ],
     "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/commonCards/8tsbwnc151z3i98ev2dt1763759520556.webp",
-    "createdAt": "2025-11-21T21:12:00.556Z"
+    "createdAt": "2025-11-21T21:12:00.556Z",
+    "rarity": "Common",
+    "cost": 1,
+    "cardClass": "Attack",
+    "skill": "<span class=\"eff-value\">120%</span> Damage to all enemies, <span class=\"eff-value\">2</span> Weaken, <span class=\"eff-value\">2</span> Impair"
   },
   {
     "id": 91,
@@ -953,7 +1369,11 @@
       "all"
     ],
     "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/commonCards/h4van6yobo7pgjv6w4xm51763759661426.webp",
-    "createdAt": "2025-11-21T21:14:21.426Z"
+    "createdAt": "2025-11-21T21:14:21.426Z",
+    "rarity": "Common",
+    "cost": 2,
+    "cardClass": "Attack",
+    "skill": "<span class=\"eff-value\">250%</span> Damage<br>If this is the only card in hand, decrease Cost by <span style=\"color: #ffcc00;\">2</span>"
   },
   {
     "id": 92,
@@ -963,7 +1383,11 @@
       "all"
     ],
     "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/commonCards/t98qz782jnjtroan1uwr9g1763759685814.webp",
-    "createdAt": "2025-11-21T21:14:45.814Z"
+    "createdAt": "2025-11-21T21:14:45.814Z",
+    "rarity": "Rare",
+    "cost": 1,
+    "cardClass": "Upgrade",
+    "skill": "<span class=\"eff-value\">5</span> Crystallize"
   },
   {
     "id": 93,
@@ -973,7 +1397,11 @@
       "all"
     ],
     "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/commonCards/hm5svc9nv0gn7a2ykprfm1763759718515.webp",
-    "createdAt": "2025-11-21T21:15:18.515Z"
+    "createdAt": "2025-11-21T21:15:18.515Z",
+    "rarity": "Common",
+    "cost": 1,
+    "cardClass": "Skill",
+    "skill": "<span class=\"eff-value\">120%</span> Shield, <span class=\"eff-value\">1</span> Vulnerable<br>If the target did not act, +<span class=\"eff-value\">120%</span> Shield Gain, +<span class=\"eff-value\">1</span> Vulnerable"
   },
   {
     "id": 94,
@@ -984,7 +1412,12 @@
       "Controller"
     ],
     "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/commonCards/zhenuod39zl8mqy3xwnvcj1763759813727.webp",
-    "createdAt": "2025-11-21T21:16:53.727Z"
+    "createdAt": "2025-11-21T21:16:53.727Z",
+    "cost": 1,
+    "cardClass": "Skill",
+    "skill": "Heal <span class=\"eff-value\">200%</span><br>If HP is full, <span class=\"eff-value\">30</span> Credit(s)",
+    "rarity": "Common",
+    "updatedAt": "2026-02-04T09:21:07.642Z"
   },
   {
     "id": 95,
@@ -994,7 +1427,11 @@
       "all"
     ],
     "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/commonCards/7jwqukcdgttsil5cdexkoc1763759867851.webp",
-    "createdAt": "2025-11-21T21:17:47.851Z"
+    "createdAt": "2025-11-21T21:17:47.851Z",
+    "rarity": "Rare",
+    "cost": 2,
+    "cardClass": "Attack",
+    "skill": "<span class=\"eff-value\">300%</span> Damage<br>Upon Ravage, +<span style=\"color: #ffcc00;\">2</span> AP"
   },
   {
     "id": 96,
@@ -1004,17 +1441,26 @@
       "all"
     ],
     "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/commonCards/9kkr820a8hlmiquiyrxrtr1763760035395.webp",
-    "createdAt": "2025-11-21T21:20:35.395Z"
+    "createdAt": "2025-11-21T21:20:35.395Z",
+    "cost": 0,
+    "cardClass": "Upgrade",
+    "skill": "-<span style=\"color: #ffcc00;\">15</span>% Damage taken (<span style=\"color: #ffcc00;\">1</span> time per turn)",
+    "rarity": "Rare",
+    "updatedAt": "2025-11-28T02:42:04.590Z"
   },
   {
     "id": 97,
-    "name": "Chaos Sample",
+    "name": "Mutant Sample",
     "type": "Chaos",
     "classes": [
       "all"
     ],
     "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/commonCards/mb0rw869hdayr3wtmdzeq1763773246546.webp",
-    "createdAt": "2025-11-22T01:00:46.546Z"
+    "createdAt": "2025-11-22T01:00:46.546Z",
+    "cost": 0,
+    "cardClass": "Skill",
+    "skill": "[Retain/Unusable/Remove]<br> When this card is in hand,<br> increase Damage by 20% in Mutant battles",
+    "updatedAt": "2026-01-27T06:31:05.558Z"
   },
   {
     "id": 98,
@@ -1024,7 +1470,11 @@
       "all"
     ],
     "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/commonCards/cam9w3fl2pf9pph933271d1763773434719.webp",
-    "createdAt": "2025-11-22T01:03:54.719Z"
+    "createdAt": "2025-11-22T01:03:54.719Z",
+    "cost": 0,
+    "cardClass": "Skill",
+    "skill": "[Remove] <br>Recover 20% of Max HP At the start of next turn,<br> decrease Morale by 1",
+    "updatedAt": "2026-01-27T06:31:43.135Z"
   },
   {
     "id": 99,
@@ -1034,6 +1484,435 @@
       "all"
     ],
     "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/commonCards/vgydfl2pz4qw7usl0jn2rf1763773487185.webp",
-    "createdAt": "2025-11-22T01:04:47.185Z"
+    "createdAt": "2025-11-22T01:04:47.185Z",
+    "cost": 0,
+    "cardClass": "Skill",
+    "skill": "[Remove] <br>Recover 12% of Max HP At the start of next turn, <br>decrease Morale by 1",
+    "updatedAt": "2026-01-27T06:32:11.397Z"
+  },
+  {
+    "id": 100,
+    "name": "Slaughter",
+    "type": "monster",
+    "classes": [
+      "all"
+    ],
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/commonCards/epxg6v6pbwasjyhla4dtkl1763794582016.webp",
+    "createdAt": "2025-11-22T06:56:22.014Z",
+    "rarity": "Common",
+    "cost": 2,
+    "cardClass": "Skill",
+    "skill": "<span class=\"eff-value\">200%</span> Shield<br>Damage to all enemies equal to Shield gained"
+  },
+  {
+    "id": 101,
+    "name": "Cultist Arbiter",
+    "type": "monster",
+    "cost": 1,
+    "cardClass": "Skill",
+    "skill": "<span class=\"eff-value\">140%</span> Shield<br>At the start of the next turn, increase Action Count of all enemies by <span class=\"eff-value\">2</span>",
+    "classes": [
+      "all"
+    ],
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/commonCards/9lq6zlq04sph0fn2v92oec1769438238704.webp",
+    "createdAt": "2026-01-26T14:37:18.704Z",
+    "rarity": "Common",
+    "updatedAt": "2026-02-04T09:21:07.643Z"
+  },
+  {
+    "id": 102,
+    "name": "Evil Spirit Salamander",
+    "type": "monster",
+    "cost": 1,
+    "cardClass": "Skill",
+    "skill": "Exhaust all cards in hand<br><span class=\"eff-value\">50%</span> Damage to all enemies equal to that number",
+    "classes": [
+      "all"
+    ],
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/commonCards/bvblb6kbllm9axenro7j8j1769438275017.webp",
+    "createdAt": "2026-01-26T14:37:55.017Z",
+    "rarity": "Rare",
+    "updatedAt": "2026-02-04T09:21:07.643Z"
+  },
+  {
+    "id": 103,
+    "name": "Vine Lord",
+    "type": "monster",
+    "classes": [
+      "all"
+    ],
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/commonCards/job_00505.webp",
+    "createdAt": "2026-02-04T09:21:07.643Z",
+    "cost": 0,
+    "cardClass": "Skill",
+    "skill": "Draw #result_ev_0# Exhaust card(s) of this unit",
+    "rarity": "Rare",
+    "updatedAt": "2026-02-04T09:21:07.643Z"
+  },
+  {
+    "id": 104,
+    "name": "Cyborg Automaton",
+    "type": "monster",
+    "classes": [
+      "all"
+    ],
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/commonCards/job_00506.webp",
+    "createdAt": "2026-02-04T09:21:09.463Z",
+    "cost": 5,
+    "cardClass": "Attack",
+    "skill": "#result_damage_0# Defense-Based Damage<br>#result_ev_1# Incinerate: Activate this card",
+    "rarity": "Common",
+    "updatedAt": "2026-02-04T09:21:09.463Z"
+  },
+  {
+    "id": 105,
+    "name": "Residual Herb",
+    "type": "neutral",
+    "classes": [
+      "Striker",
+      "Vanguard"
+    ],
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/commonCards/job_00495.webp",
+    "createdAt": "2026-02-04T09:21:11.342Z",
+    "cost": 0,
+    "cardClass": "Skill",
+    "skill": "#result_damage_0# Shield<br>Incinerate: Create #result_ev_1# <span style=\"color: #ffcc00;\"><u>Contaminated Spore</u></span>",
+    "rarity": "Rare",
+    "updatedAt": "2026-02-04T09:21:11.342Z"
+  },
+  {
+    "id": 106,
+    "name": "Forest’s Hunger",
+    "type": "neutral",
+    "classes": [
+      "Striker",
+      "Vanguard"
+    ],
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/commonCards/job_00491.webp",
+    "createdAt": "2026-02-04T09:21:13.229Z",
+    "cost": 2,
+    "cardClass": "Attack",
+    "skill": "#result_damage_0# Defense-Based Damage<br> Exhaust all Exhaust cards in hand, then +#basic_ecdv0_0#% Damage Amount for each",
+    "rarity": "Rare",
+    "updatedAt": "2026-02-04T09:21:13.229Z"
+  },
+  {
+    "id": 107,
+    "name": "Forgotten Grave",
+    "type": "neutral",
+    "classes": [
+      "Ranger",
+      "Hunter"
+    ],
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/commonCards/job_00492.webp",
+    "createdAt": "2026-02-04T09:21:15.093Z",
+    "cost": 6,
+    "cardClass": "Skill",
+    "skill": "When Cost of this card is decreased, +#cs_ev_0_0#% Critical Chance to this unit for <span style=\"color: #ffcc00;\">1</span> turn<br>Incinerate: Create #result_ev_1# <span style=\"color: #ffcc00;\"><u>Contaminated Spore</u></span>",
+    "rarity": "Rare",
+    "updatedAt": "2026-02-04T09:21:15.093Z"
+  },
+  {
+    "id": 108,
+    "name": "Mushroom Ammo",
+    "type": "neutral",
+    "classes": [
+      "Ranger",
+      "Hunter"
+    ],
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/commonCards/job_00493.webp",
+    "createdAt": "2026-02-04T09:21:17.795Z",
+    "cost": 3,
+    "cardClass": "Attack",
+    "skill": "#result_damage_0# Damage<br><span style=\"color: #ffcc00;\">Double</span> the effect of Spore Propagation",
+    "rarity": "Rare",
+    "updatedAt": "2026-02-04T09:21:17.795Z"
+  },
+  {
+    "id": 109,
+    "name": "One With All",
+    "type": "neutral",
+    "classes": [
+      "Psionic",
+      "Controller"
+    ],
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/commonCards/job_00490.webp",
+    "createdAt": "2026-02-04T09:21:19.584Z",
+    "cost": 0,
+    "cardClass": "Skill",
+    "skill": "Select and Activate #result_ev_0# card(s) in hand, Draw Pile, or Discard Pile<br>For <span style=\"color: #ffcc00;\">1</span> turn, when each of Damage, Shield, and Heal has been activated through cards, remove Unusable",
+    "rarity": "Rare",
+    "updatedAt": "2026-02-04T09:21:19.584Z"
+  },
+  {
+    "id": 110,
+    "name": "Nature’s Gift",
+    "type": "neutral",
+    "classes": [
+      "Psionic",
+      "Controller"
+    ],
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/commonCards/job_00497.webp",
+    "createdAt": "2026-02-04T09:21:21.458Z",
+    "cost": 1,
+    "cardClass": "Skill",
+    "skill": "Heal #result_coeff_ecdv0_0##n_result_damage_0# for each card in hand<br>Harmonization: Create <span style=\"color: #ffcc00;\">1</span> <span style=\"color: #ffcc00;\"><u>Contaminated Spore</u></span> for each card in hand",
+    "rarity": "Rare",
+    "updatedAt": "2026-02-04T09:21:21.458Z"
+  },
+  {
+    "id": 111,
+    "name": "Spore Harvester",
+    "type": "neutral",
+    "classes": [
+      "all"
+    ],
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/commonCards/job_00496.webp",
+    "createdAt": "2026-02-04T09:21:23.479Z",
+    "cost": 0,
+    "cardClass": "Skill",
+    "skill": "Incinerate: Create #result_ev_0# <span style=\"color: #ffcc00;\"><u>Contaminated Spore</u></span><br>Retain: Create #result_ev_1# <span style=\"color: #ffcc00;\"><u>Contaminated Spore</u></span>",
+    "rarity": "Legendary",
+    "updatedAt": "2026-02-04T09:21:23.479Z"
+  },
+  {
+    "id": 112,
+    "name": "Nutrient Absorption",
+    "type": "neutral",
+    "classes": [
+      "all"
+    ],
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/commonCards/job_00494.webp",
+    "createdAt": "2026-02-04T09:21:25.382Z",
+    "cost": 0,
+    "cardClass": "Skill",
+    "skill": "Select and Exhaust #result_ev_0# card in hand<br>For each Cost of that card, decrease Cost of <span style=\"color: #ffcc00;\">1</span> random card in hand by <span style=\"color: #ffcc00;\">1</span> for <span style=\"color: #ffcc00;\">1</span> turn",
+    "rarity": "Legendary",
+    "updatedAt": "2026-02-04T09:21:25.382Z"
+  },
+  {
+    "id": 113,
+    "name": "Engraved Malice",
+    "type": "forbidden",
+    "classes": [
+      "all"
+    ],
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/commonCards/taboo_00001.webp",
+    "createdAt": "2026-02-04T09:21:27.255Z",
+    "cost": 0,
+    "cardClass": "Skill",
+    "skill": "When this card is Drawn<br>Discard <span class=\"eff-value\">2</span> other random card(s)<br>Draw <span class=\"eff-value\">1</span>",
+    "rarity": "Legendary",
+    "updatedAt": "2026-02-04T09:21:27.255Z"
+  },
+  {
+    "id": 114,
+    "name": "Portrait of Fury",
+    "type": "forbidden",
+    "classes": [
+      "all"
+    ],
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/commonCards/taboo_00002.webp",
+    "createdAt": "2026-02-04T09:21:29.522Z",
+    "cost": 0,
+    "cardClass": "Skill",
+    "skill": "When Drawing this card<br>decrease Damage Amount and Tenacity Damage of the next <span class=\"eff-value\">2</span> card(s) by <span style=\"color: #ffcc00;\">100</span>%",
+    "rarity": "Legendary",
+    "updatedAt": "2026-02-04T09:21:29.522Z"
+  },
+  {
+    "id": 115,
+    "name": "Ecstasy of Violence",
+    "type": "forbidden",
+    "classes": [
+      "all"
+    ],
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/commonCards/taboo_00003.webp",
+    "createdAt": "2026-02-04T09:21:31.276Z",
+    "cost": 0,
+    "cardClass": "Skill",
+    "skill": "When Drawing this card<br>decrease Shield Gain and Heal Amount of the next <span class=\"eff-value\">2</span> card(s) by <span style=\"color: #ffcc00;\">100</span>%",
+    "rarity": "Legendary",
+    "updatedAt": "2026-02-04T09:21:31.276Z"
+  },
+  {
+    "id": 116,
+    "name": "Guidance of Futility",
+    "type": "forbidden",
+    "classes": [
+      "all"
+    ],
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/commonCards/taboo_00004.webp",
+    "createdAt": "2026-02-04T09:21:33.493Z",
+    "cost": 0,
+    "cardClass": "Skill",
+    "skill": "When this card is Drawn<br><span class=\"eff-value\">5</span>% Damage of Max HP to self<br><span class=\"eff-value\">5</span> Stress to a random Combatant",
+    "rarity": "Legendary",
+    "updatedAt": "2026-02-04T09:21:33.493Z"
+  },
+  {
+    "id": 117,
+    "name": "Disposable Ego",
+    "type": "forbidden",
+    "classes": [
+      "all"
+    ],
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/commonCards/taboo_00005.webp",
+    "createdAt": "2026-02-04T09:21:35.319Z",
+    "cost": 0,
+    "cardClass": "Skill",
+    "skill": "When this card is Drawn<br>create <span class=\"eff-value\">1</span> <span style=\"color: #ffcc00;\"><u>Replicated Ego</u></span> card(s) to the Draw Pile",
+    "rarity": "Legendary",
+    "updatedAt": "2026-02-04T09:21:35.319Z"
+  },
+  {
+    "id": 118,
+    "name": "Gesture of Freedom",
+    "type": "forbidden",
+    "classes": [
+      "all"
+    ],
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/commonCards/taboo_00006.webp",
+    "createdAt": "2026-02-04T09:21:37.244Z",
+    "cost": 0,
+    "cardClass": "Skill",
+    "skill": "When Drawing this card,<br>increase Cost of Attack Cards by <span class=\"eff-value\">1</span> for <span style=\"color: #ffcc00;\">1</span> turn",
+    "rarity": "Legendary",
+    "updatedAt": "2026-02-04T09:21:37.244Z"
+  },
+  {
+    "id": 119,
+    "name": "Eternal Hunger",
+    "type": "forbidden",
+    "classes": [
+      "all"
+    ],
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/commonCards/taboo_00007.webp",
+    "createdAt": "2026-02-04T09:21:38.982Z",
+    "cost": 0,
+    "cardClass": "Skill",
+    "skill": "When this card is Drawn,<br>decrease AP by <span class=\"eff-value\">1</span>",
+    "rarity": "Legendary",
+    "updatedAt": "2026-02-04T09:21:38.982Z"
+  },
+  {
+    "id": 120,
+    "name": "Replicated Ego",
+    "type": "forbidden",
+    "classes": [
+      "all"
+    ],
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/commonCards/taboo_00005.webp",
+    "createdAt": "2026-02-04T09:21:40.792Z",
+    "cost": 0,
+    "cardClass": "Skill",
+    "skill": "",
+    "rarity": "Legendary",
+    "updatedAt": "2026-02-04T09:21:40.792Z"
+  },
+  {
+    "id": 121,
+    "name": "Ghost",
+    "type": "monster",
+    "classes": [
+      "all"
+    ],
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/commonCards/job_00426.webp",
+    "createdAt": "2026-02-04T09:21:40.792Z",
+    "cost": 1,
+    "cardClass": "Skill",
+    "skill": "<span class=\"eff-value\">1</span> Spiritualization",
+    "rarity": "Unique",
+    "updatedAt": "2026-02-04T09:21:40.792Z"
+  },
+  {
+    "id": 122,
+    "name": "Contaminated Spore",
+    "type": "neutral",
+    "classes": [
+      "all"
+    ],
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/commonCards/job_00498.webp",
+    "createdAt": "2026-02-04T09:21:43.851Z",
+    "cost": 0,
+    "cardClass": "Skill",
+    "skill": "#result_ev_0# Spore Propagation<br>Retain: Create #result_ev_1# <span style=\"color: #ffcc00;\"><u>Contaminated Spore</u></span>",
+    "rarity": "Rare",
+    "updatedAt": "2026-02-04T09:21:43.851Z"
+  },
+  {
+    "id": 123,
+    "name": "Rocket Punch",
+    "type": "neutral",
+    "classes": [
+      "all"
+    ],
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/commonCards/arena_00001.webp",
+    "createdAt": "2026-02-04T09:21:45.625Z",
+    "cost": 0,
+    "cardClass": "Attack",
+    "skill": "#result_damage_0# Damage<br>Retain: +<span style=\"color: #ffcc00;\">25</span>% activation chance, and has a #run_pct_1# chance to activate this card",
+    "rarity": "Rare",
+    "updatedAt": "2026-02-04T09:21:45.625Z"
+  },
+  {
+    "id": 124,
+    "name": "Pierce",
+    "type": "neutral",
+    "classes": [
+      "all"
+    ],
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/commonCards/arena_00002.webp",
+    "createdAt": "2026-02-04T09:21:47.418Z",
+    "cost": 0,
+    "cardClass": "Attack",
+    "skill": "#result_coeff_ev_0# Damage<br>#result_ev_1# Vulnerable<br>#result_ev_2# Weaken<br>#result_ev_3# Agony",
+    "rarity": "Rare",
+    "updatedAt": "2026-02-04T09:21:47.418Z"
+  },
+  {
+    "id": 125,
+    "name": "Shield Blast",
+    "type": "neutral",
+    "classes": [
+      "all"
+    ],
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/commonCards/arena_00003.webp",
+    "createdAt": "2026-02-04T09:21:49.182Z",
+    "cost": 0,
+    "cardClass": "Attack",
+    "skill": "#result_damage_0# Defense-Based Damage to all enemies",
+    "rarity": "Rare",
+    "updatedAt": "2026-02-04T09:21:49.182Z"
+  },
+  {
+    "id": 126,
+    "name": "Heavy Blow",
+    "type": "neutral",
+    "classes": [
+      "all"
+    ],
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/commonCards/arena_00004.webp",
+    "createdAt": "2026-02-04T09:21:50.999Z",
+    "cost": 0,
+    "cardClass": "Attack",
+    "skill": "#result_damage_0# Damage<br><span style=\"color: #ffcc00;\">Double</span> the effect of Vulnerable",
+    "rarity": "Rare",
+    "updatedAt": "2026-02-04T09:21:50.999Z"
+  },
+  {
+    "id": 127,
+    "name": "Charged Strike",
+    "type": "neutral",
+    "classes": [
+      "all"
+    ],
+    "image": "https://cdn.jsdelivr.net/gh/kiriely/czn-cal-img@main/czn/commonCards/arena_00005.webp",
+    "createdAt": "2026-02-04T09:21:52.754Z",
+    "cost": 0,
+    "cardClass": "Attack",
+    "skill": "#result_damage_0# Defense-Based Damage and +#result_coeff_ecdv0_0# Damage for each AP<br>Incinerate: Activate this card",
+    "rarity": "Rare",
+    "updatedAt": "2026-02-04T09:21:52.754Z"
   }
 ]
